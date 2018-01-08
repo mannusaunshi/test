@@ -1,0 +1,1830 @@
+<option value ="A P J Abdul Kalam Technological University: A P J Abdul Kalam Technological University
+">A P J Abdul Kalam Technological University: A P J Abdul Kalam Technological University
+</option>
+<option value ="AISECT University: AISECT University
+">AISECT University: AISECT University
+</option>
+<option value ="AKS University: AKS University
+">AKS University: AKS University
+</option>
+<option value ="AMET University: AMET University
+">AMET University: AMET University
+</option>
+<option value ="APG Shimla University (page does not exist): APG Shimla University (page does not exist)
+">APG Shimla University (page does not exist): APG Shimla University (page does not exist)
+</option>
+<option value ="Acharya N.G. Ranga Agricultural University: Acharya N.G. Ranga Agricultural University
+">Acharya N.G. Ranga Agricultural University: Acharya N.G. Ranga Agricultural University
+</option>
+<option value ="Acharya Nagarjuna University: Acharya Nagarjuna University
+">Acharya Nagarjuna University: Acharya Nagarjuna University
+</option>
+<option value ="Adamas University: Adamas University
+">Adamas University: Adamas University
+</option>
+<option value ="Adikavi Nannaya University: Adikavi Nannaya University
+">Adikavi Nannaya University: Adikavi Nannaya University
+</option>
+<option value ="Ahmedabad University: Ahmedabad University
+">Ahmedabad University: Ahmedabad University
+</option>
+<option value ="Alagappa University: Alagappa University
+">Alagappa University: Alagappa University
+</option>
+<option value ="Aliah University: Aliah University
+">Aliah University: Aliah University
+</option>
+<option value ="Aligarh Muslim University: Aligarh Muslim University
+">Aligarh Muslim University: Aligarh Muslim University
+</option>
+<option value ="All India Institute of Medical Sciences Rishikesh: All India Institute of Medical Sciences Rishikesh
+">All India Institute of Medical Sciences Rishikesh: All India Institute of Medical Sciences Rishikesh
+</option>
+<option value ="All India Institute of Medical Sciences: All India Institute of Medical Sciences
+">All India Institute of Medical Sciences: All India Institute of Medical Sciences
+</option>
+<option value ="Allahabad State University: Allahabad State University
+">Allahabad State University: Allahabad State University
+</option>
+<option value ="Alliance University: Alliance University
+">Alliance University: Alliance University
+</option>
+<option value ="Along, Arunachal Pradesh: Along, Arunachal Pradesh
+">Along, Arunachal Pradesh: Along, Arunachal Pradesh
+</option>
+<option value ="Ambedkar University Delhi: Ambedkar University Delhi
+">Ambedkar University Delhi: Ambedkar University Delhi
+</option>
+<option value ="Amity University Kolkata: Amity University Kolkata
+">Amity University Kolkata: Amity University Kolkata
+</option>
+<option value ="Amity University, Raipur: Amity University, Raipur
+">Amity University, Raipur: Amity University, Raipur
+</option>
+<option value ="Amity University: Amity University
+">Amity University: Amity University
+</option>
+<option value ="Amrita University: Amrita University
+">Amrita University: Amrita University
+</option>
+<option value ="Amrita Vishwa Vidyapeetham: Amrita Vishwa Vidyapeetham
+">Amrita Vishwa Vidyapeetham: Amrita Vishwa Vidyapeetham
+</option>
+<option value ="Andhra Pradesh Open University: Andhra Pradesh Open University
+">Andhra Pradesh Open University: Andhra Pradesh Open University
+</option>
+<option value ="Andhra University: Andhra University
+">Andhra University: Andhra University
+</option>
+<option value ="Anna University of Technology Tirunelveli: Anna University of Technology Tirunelveli
+">Anna University of Technology Tirunelveli: Anna University of Technology Tirunelveli
+</option>
+<option value ="Anna University: Anna University
+">Anna University: Anna University
+</option>
+<option value ="Annamalai University: Annamalai University
+">Annamalai University: Annamalai University
+</option>
+<option value ="Ansal Institute of Technology: Ansal Institute of Technology
+">Ansal Institute of Technology: Ansal Institute of Technology
+</option>
+<option value ="Apeejay Education Society: Apeejay Education Society
+">Apeejay Education Society: Apeejay Education Society
+</option>
+<option value ="Apex Professional University: Apex Professional University
+">Apex Professional University: Apex Professional University
+</option>
+<option value ="Applied sciences: Applied sciences
+">Applied sciences: Applied sciences
+</option>
+<option value ="Arni University: Arni University
+">Arni University: Arni University
+</option>
+<option value ="Arunachal University of Studies: Arunachal University of Studies
+">Arunachal University of Studies: Arunachal University of Studies
+</option>
+<option value ="Aryabhatta Knowledge University: Aryabhatta Knowledge University
+">Aryabhatta Knowledge University: Aryabhatta Knowledge University
+</option>
+<option value ="Ashoka University: Ashoka University
+">Ashoka University: Ashoka University
+</option>
+<option value ="Assam Agricultural University: Assam Agricultural University
+">Assam Agricultural University: Assam Agricultural University
+</option>
+<option value ="Assam Don Bosco University: Assam Don Bosco University
+">Assam Don Bosco University: Assam Don Bosco University
+</option>
+<option value ="Assam Down Town University: Assam Down Town University
+">Assam Down Town University: Assam Down Town University
+</option>
+<option value ="Assam Rajiv Gandhi University of Cooperative Management: Assam Rajiv Gandhi University of Cooperative Management
+">Assam Rajiv Gandhi University of Cooperative Management: Assam Rajiv Gandhi University of Cooperative Management
+</option>
+<option value ="Assam Science and Technology University: Assam Science and Technology University
+">Assam Science and Technology University: Assam Science and Technology University
+</option>
+<option value ="Assam University: Assam University
+">Assam University: Assam University
+</option>
+<option value ="Assam Women's University: Assam Women's University
+">Assam Women's University: Assam Women's University
+</option>
+<option value ="Atal Bihari Vajpayee Hindi Vishwavidyalaya: Atal Bihari Vajpayee Hindi Vishwavidyalaya
+">Atal Bihari Vajpayee Hindi Vishwavidyalaya: Atal Bihari Vajpayee Hindi Vishwavidyalaya
+</option>
+<option value ="Auro University: Auro University
+">Auro University: Auro University
+</option>
+<option value ="Avinashilingam University: Avinashilingam University
+">Avinashilingam University: Avinashilingam University
+</option>
+<option value ="Awadhesh Pratap Singh University: Awadhesh Pratap Singh University
+">Awadhesh Pratap Singh University: Awadhesh Pratap Singh University
+</option>
+<option value ="Ayush & Health Sciences University Chhattisgarh: Ayush & Health Sciences University Chhattisgarh
+">Ayush & Health Sciences University Chhattisgarh: Ayush & Health Sciences University Chhattisgarh
+</option>
+<option value ="Azim Premji University: Azim Premji University
+">Azim Premji University: Azim Premji University
+</option>
+<option value ="B. R. Ambedkar Bihar University: B. R. Ambedkar Bihar University
+">B. R. Ambedkar Bihar University: B. R. Ambedkar Bihar University
+</option>
+<option value ="B. S. Abdur Rahman University: B. S. Abdur Rahman University
+">B. S. Abdur Rahman University: B. S. Abdur Rahman University
+</option>
+<option value ="Baba Ghulam Shah Badhshah University: Baba Ghulam Shah Badhshah University
+">Baba Ghulam Shah Badhshah University: Baba Ghulam Shah Badhshah University
+</option>
+<option value ="Baba Mast Nath University: Baba Mast Nath University
+">Baba Mast Nath University: Baba Mast Nath University
+</option>
+<option value ="Babasaheb Bhimrao Ambedkar University: Babasaheb Bhimrao Ambedkar University
+">Babasaheb Bhimrao Ambedkar University: Babasaheb Bhimrao Ambedkar University
+</option>
+<option value ="Babu Banarasi Das University: Babu Banarasi Das University
+">Babu Banarasi Das University: Babu Banarasi Das University
+</option>
+<option value ="Baddi University of Emerging Sciences and Technologies: Baddi University of Emerging Sciences and Technologies
+">Baddi University of Emerging Sciences and Technologies: Baddi University of Emerging Sciences and Technologies
+</option>
+<option value ="Banaras Hindu University: Banaras Hindu University
+">Banaras Hindu University: Banaras Hindu University
+</option>
+<option value ="Banda University of Agriculture and Technology: Banda University of Agriculture and Technology
+">Banda University of Agriculture and Technology: Banda University of Agriculture and Technology
+</option>
+<option value ="Bangalore University: Bangalore University
+">Bangalore University: Bangalore University
+</option>
+<option value ="Bankura University: Bankura University
+">Bankura University: Bankura University
+</option>
+<option value ="Barkatullah University: Barkatullah University
+">Barkatullah University: Barkatullah University
+</option>
+<option value ="Bastar University: Bastar University
+">Bastar University: Bastar University
+</option>
+<option value ="Bengal Engineering & Science University: Bengal Engineering & Science University
+">Bengal Engineering & Science University: Bengal Engineering & Science University
+</option>
+<option value ="Bhagat Phool Singh Mahila Vishwavidyalaya: Bhagat Phool Singh Mahila Vishwavidyalaya
+">Bhagat Phool Singh Mahila Vishwavidyalaya: Bhagat Phool Singh Mahila Vishwavidyalaya
+</option>
+<option value ="Bharat University: Bharat University
+">Bharat University: Bharat University
+</option>
+<option value ="Bharathiar University: Bharathiar University
+">Bharathiar University: Bharathiar University
+</option>
+<option value ="Bharathidasan Institute of Management: Bharathidasan Institute of Management
+">Bharathidasan Institute of Management: Bharathidasan Institute of Management
+</option>
+<option value ="Bharathidasan University: Bharathidasan University
+">Bharathidasan University: Bharathidasan University
+</option>
+<option value ="Bharati Vidyapeeth: Bharati Vidyapeeth
+">Bharati Vidyapeeth: Bharati Vidyapeeth
+</option>
+<option value ="Bharti Vidyapeeth: Bharti Vidyapeeth
+">Bharti Vidyapeeth: Bharti Vidyapeeth
+</option>
+<option value ="Bhatkhande Music Institute: Bhatkhande Music Institute
+">Bhatkhande Music Institute: Bhatkhande Music Institute
+</option>
+<option value ="Bhavnagar University: Bhavnagar University
+">Bhavnagar University: Bhavnagar University
+</option>
+<option value ="Bhopal School of Social Sciences: Bhopal School of Social Sciences
+">Bhopal School of Social Sciences: Bhopal School of Social Sciences
+</option>
+<option value ="Bhupendra Narayan Mandal University: Bhupendra Narayan Mandal University
+">Bhupendra Narayan Mandal University: Bhupendra Narayan Mandal University
+</option>
+<option value ="Bidhan Chandra Krishi Viswavidyalaya: Bidhan Chandra Krishi Viswavidyalaya
+">Bidhan Chandra Krishi Viswavidyalaya: Bidhan Chandra Krishi Viswavidyalaya
+</option>
+<option value ="Bihar Agricultural University: Bihar Agricultural University
+">Bihar Agricultural University: Bihar Agricultural University
+</option>
+<option value ="Bihar Animal Science University (page does not exist): Bihar Animal Science University (page does not exist)
+">Bihar Animal Science University (page does not exist): Bihar Animal Science University (page does not exist)
+</option>
+<option value ="Bihar Yoga Bharati: Bihar Yoga Bharati
+">Bihar Yoga Bharati: Bihar Yoga Bharati
+</option>
+<option value ="Bilaspur University: Bilaspur University
+">Bilaspur University: Bilaspur University
+</option>
+<option value ="Bilaspur, Chhattisgarh: Bilaspur, Chhattisgarh
+">Bilaspur, Chhattisgarh: Bilaspur, Chhattisgarh
+</option>
+<option value ="Birla Institute of Technology, Mesra: Birla Institute of Technology, Mesra
+">Birla Institute of Technology, Mesra: Birla Institute of Technology, Mesra
+</option>
+<option value ="Birsa Agricultural University: Birsa Agricultural University
+">Birsa Agricultural University: Birsa Agricultural University
+</option>
+<option value ="Bodoland University: Bodoland University
+">Bodoland University: Bodoland University
+</option>
+<option value ="Brainware University: Brainware University
+">Brainware University: Brainware University
+</option>
+<option value ="Bundelkhand University: Bundelkhand University
+">Bundelkhand University: Bundelkhand University
+</option>
+<option value ="CMR University: CMR University
+">CMR University: CMR University
+</option>
+<option value ="Central Electro Chemical Research Institute: Central Electro Chemical Research Institute
+">Central Electro Chemical Research Institute: Central Electro Chemical Research Institute
+</option>
+<option value ="Central Institute of Brackish Water Aquaculture: Central Institute of Brackish Water Aquaculture
+">Central Institute of Brackish Water Aquaculture: Central Institute of Brackish Water Aquaculture
+</option>
+<option value ="Central Institute of Fisheries Education: Central Institute of Fisheries Education
+">Central Institute of Fisheries Education: Central Institute of Fisheries Education
+</option>
+<option value ="Central Institute of Higher Tibetan Studies: Central Institute of Higher Tibetan Studies
+">Central Institute of Higher Tibetan Studies: Central Institute of Higher Tibetan Studies
+</option>
+<option value ="Central Institute of Plastics Engineering and Technology (India) (page does not exist): Central Institute of Plastics Engineering and Technology (India) (page does not exist)
+">Central Institute of Plastics Engineering and Technology (India) (page does not exist): Central Institute of Plastics Engineering and Technology (India) (page does not exist)
+</option>
+<option value ="Central Institute of Tool Design: Central Institute of Tool Design
+">Central Institute of Tool Design: Central Institute of Tool Design
+</option>
+<option value ="Central Leather Research Institute: Central Leather Research Institute
+">Central Leather Research Institute: Central Leather Research Institute
+</option>
+<option value ="Central University of Gujarat: Central University of Gujarat
+">Central University of Gujarat: Central University of Gujarat
+</option>
+<option value ="Central University of Haryana: Central University of Haryana
+">Central University of Haryana: Central University of Haryana
+</option>
+<option value ="Central University of Himachal Pradesh: Central University of Himachal Pradesh
+">Central University of Himachal Pradesh: Central University of Himachal Pradesh
+</option>
+<option value ="Central University of Jammu: Central University of Jammu
+">Central University of Jammu: Central University of Jammu
+</option>
+<option value ="Central University of Jharkhand: Central University of Jharkhand
+">Central University of Jharkhand: Central University of Jharkhand
+</option>
+<option value ="Central University of Karnataka: Central University of Karnataka
+">Central University of Karnataka: Central University of Karnataka
+</option>
+<option value ="Central University of Kashmir: Central University of Kashmir
+">Central University of Kashmir: Central University of Kashmir
+</option>
+<option value ="Central University of South Bihar: Central University of South Bihar
+">Central University of South Bihar: Central University of South Bihar
+</option>
+<option value ="Central University of Tamil Nadu: Central University of Tamil Nadu
+">Central University of Tamil Nadu: Central University of Tamil Nadu
+</option>
+<option value ="Central University, India: Central University, India
+">Central University, India: Central University, India
+</option>
+<option value ="Chanakya National Law University: Chanakya National Law University
+">Chanakya National Law University: Chanakya National Law University
+</option>
+<option value ="Chandigarh University: Chandigarh University
+">Chandigarh University: Chandigarh University
+</option>
+<option value ="Chandra Shekhar Azad University of Agriculture & Technology: Chandra Shekhar Azad University of Agriculture & Technology
+">Chandra Shekhar Azad University of Agriculture & Technology: Chandra Shekhar Azad University of Agriculture & Technology
+</option>
+<option value ="Charotar University of Science and Technology: Charotar University of Science and Technology
+">Charotar University of Science and Technology: Charotar University of Science and Technology
+</option>
+<option value ="Chaudhary Bansi Lal University: Chaudhary Bansi Lal University
+">Chaudhary Bansi Lal University: Chaudhary Bansi Lal University
+</option>
+<option value ="Chaudhary Charan Singh Haryana Agricultural University: Chaudhary Charan Singh Haryana Agricultural University
+">Chaudhary Charan Singh Haryana Agricultural University: Chaudhary Charan Singh Haryana Agricultural University
+</option>
+<option value ="Chaudhary Charan Singh University: Chaudhary Charan Singh University
+">Chaudhary Charan Singh University: Chaudhary Charan Singh University
+</option>
+<option value ="Chaudhary Devi Lal University: Chaudhary Devi Lal University
+">Chaudhary Devi Lal University: Chaudhary Devi Lal University
+</option>
+<option value ="Chaudhary Ranbir Singh University: Chaudhary Ranbir Singh University
+">Chaudhary Ranbir Singh University: Chaudhary Ranbir Singh University
+</option>
+<option value ="Chaudhary Sarwan Kumar Himachal Pradesh Krishi Vishvavidyalaya: Chaudhary Sarwan Kumar Himachal Pradesh Krishi Vishvavidyalaya
+">Chaudhary Sarwan Kumar Himachal Pradesh Krishi Vishvavidyalaya: Chaudhary Sarwan Kumar Himachal Pradesh Krishi Vishvavidyalaya
+</option>
+<option value ="Chennai Mathematical Institute: Chennai Mathematical Institute
+">Chennai Mathematical Institute: Chennai Mathematical Institute
+</option>
+<option value ="Chettinad University: Chettinad University
+">Chettinad University: Chettinad University
+</option>
+<option value ="Chhatrapati Shahu Ji Maharaj University: Chhatrapati Shahu Ji Maharaj University
+">Chhatrapati Shahu Ji Maharaj University: Chhatrapati Shahu Ji Maharaj University
+</option>
+<option value ="Chhattisgarh Kamdhenu Vishwavidyalaya: Chhattisgarh Kamdhenu Vishwavidyalaya
+">Chhattisgarh Kamdhenu Vishwavidyalaya: Chhattisgarh Kamdhenu Vishwavidyalaya
+</option>
+<option value ="Chhattisgarh Swami Vivekanand Technical University: Chhattisgarh Swami Vivekanand Technical University
+">Chhattisgarh Swami Vivekanand Technical University: Chhattisgarh Swami Vivekanand Technical University
+</option>
+<option value ="Chitkara University: Chitkara University
+">Chitkara University: Chitkara University
+</option>
+<option value ="Chitrakoot, Madhya Pradesh: Chitrakoot, Madhya Pradesh
+">Chitrakoot, Madhya Pradesh: Chitrakoot, Madhya Pradesh
+</option>
+<option value ="Christ University: Christ University
+">Christ University: Christ University
+</option>
+<option value ="Christian Theology: Christian Theology
+">Christian Theology: Christian Theology
+</option>
+<option value ="Cluster University of Jammu: Cluster University of Jammu
+">Cluster University of Jammu: Cluster University of Jammu
+</option>
+<option value ="Cluster University of Srinagar: Cluster University of Srinagar
+">Cluster University of Srinagar: Cluster University of Srinagar
+</option>
+<option value ="Cochin University of Science and Technology: Cochin University of Science and Technology
+">Cochin University of Science and Technology: Cochin University of Science and Technology
+</option>
+<option value ="College of Engineering, Guindy: College of Engineering, Guindy
+">College of Engineering, Guindy: College of Engineering, Guindy
+</option>
+<option value ="Cotton College State University: Cotton College State University
+">Cotton College State University: Cotton College State University
+</option>
+<option value ="Damodaram Sanjivayya National Law University: Damodaram Sanjivayya National Law University
+">Damodaram Sanjivayya National Law University: Damodaram Sanjivayya National Law University
+</option>
+<option value ="Davangere University: Davangere University
+">Davangere University: Davangere University
+</option>
+<option value ="Dayalbagh Educational Institute: Dayalbagh Educational Institute
+">Dayalbagh Educational Institute: Dayalbagh Educational Institute
+</option>
+<option value ="Deccan College Post-Graduate and Research Institute: Deccan College Post-Graduate and Research Institute
+">Deccan College Post-Graduate and Research Institute: Deccan College Post-Graduate and Research Institute
+</option>
+<option value ="Deen Dayal Upadhyay Gorakhpur University: Deen Dayal Upadhyay Gorakhpur University
+">Deen Dayal Upadhyay Gorakhpur University: Deen Dayal Upadhyay Gorakhpur University
+</option>
+<option value ="Deenbandhu Chhotu Ram University of Science and Technology: Deenbandhu Chhotu Ram University of Science and Technology
+">Deenbandhu Chhotu Ram University of Science and Technology: Deenbandhu Chhotu Ram University of Science and Technology
+</option>
+<option value ="Defence Institute of Advanced Technology: Defence Institute of Advanced Technology
+">Defence Institute of Advanced Technology: Defence Institute of Advanced Technology
+</option>
+<option value ="Defense industry: Defense industry
+">Defense industry: Defense industry
+</option>
+<option value ="Delhi Pharmaceutical Science and Research University: Delhi Pharmaceutical Science and Research University
+">Delhi Pharmaceutical Science and Research University: Delhi Pharmaceutical Science and Research University
+</option>
+<option value ="Delhi Technological University: Delhi Technological University
+">Delhi Technological University: Delhi Technological University
+</option>
+<option value ="Department of Personnel and Administrative Reforms (Tamil Nadu) (page does not exist): Department of Personnel and Administrative Reforms (Tamil Nadu) (page does not exist)
+">Department of Personnel and Administrative Reforms (Tamil Nadu) (page does not exist): Department of Personnel and Administrative Reforms (Tamil Nadu) (page does not exist)
+</option>
+<option value ="Devi Ahilya University: Devi Ahilya University
+">Devi Ahilya University: Devi Ahilya University
+</option>
+<option value ="Dharamsinh Desai University: Dharamsinh Desai University
+">Dharamsinh Desai University: Dharamsinh Desai University
+</option>
+<option value ="Dhirubhai Ambani Institute of Information and Communication Technology: Dhirubhai Ambani Institute of Information and Communication Technology
+">Dhirubhai Ambani Institute of Information and Communication Technology: Dhirubhai Ambani Institute of Information and Communication Technology
+</option>
+<option value ="Diamond Harbour Women's University: Diamond Harbour Women's University
+">Diamond Harbour Women's University: Diamond Harbour Women's University
+</option>
+<option value ="Dibrugarh University: Dibrugarh University
+">Dibrugarh University: Dibrugarh University
+</option>
+<option value ="Dr. A.P.J. Abdul Kalam Technical University: Dr. A.P.J. Abdul Kalam Technical University
+">Dr. A.P.J. Abdul Kalam Technical University: Dr. A.P.J. Abdul Kalam Technical University
+</option>
+<option value ="Dr. B. R. Ambedkar University: Dr. B. R. Ambedkar University
+">Dr. B. R. Ambedkar University: Dr. B. R. Ambedkar University
+</option>
+<option value ="Dr. B.R. Ambedkar University, Srikakulam: Dr. B.R. Ambedkar University, Srikakulam
+">Dr. B.R. Ambedkar University, Srikakulam: Dr. B.R. Ambedkar University, Srikakulam
+</option>
+<option value ="Dr. Babasaheb Ambedkar Marathwada University: Dr. Babasaheb Ambedkar Marathwada University
+">Dr. Babasaheb Ambedkar Marathwada University: Dr. Babasaheb Ambedkar Marathwada University
+</option>
+<option value ="Dr. Babasaheb Ambedkar Technological University: Dr. Babasaheb Ambedkar Technological University
+">Dr. Babasaheb Ambedkar Technological University: Dr. Babasaheb Ambedkar Technological University
+</option>
+<option value ="Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth: Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth
+">Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth: Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth
+</option>
+<option value ="Dr. C. V. Raman University: Dr. C. V. Raman University
+">Dr. C. V. Raman University: Dr. C. V. Raman University
+</option>
+<option value ="Dr. Hari Singh Gour University: Dr. Hari Singh Gour University
+">Dr. Hari Singh Gour University: Dr. Hari Singh Gour University
+</option>
+<option value ="Dr. M.G.R. Educational and Research Institute: Dr. M.G.R. Educational and Research Institute
+">Dr. M.G.R. Educational and Research Institute: Dr. M.G.R. Educational and Research Institute
+</option>
+<option value ="Dr. Nandamuri Taraka Rama Rao University of Health Sciences, Andhra Pradesh: Dr. Nandamuri Taraka Rama Rao University of Health Sciences, Andhra Pradesh
+">Dr. Nandamuri Taraka Rama Rao University of Health Sciences, Andhra Pradesh: Dr. Nandamuri Taraka Rama Rao University of Health Sciences, Andhra Pradesh
+</option>
+<option value ="Dr. Panjabrao Deshmukh Krishi Vidyapeeth: Dr. Panjabrao Deshmukh Krishi Vidyapeeth
+">Dr. Panjabrao Deshmukh Krishi Vidyapeeth: Dr. Panjabrao Deshmukh Krishi Vidyapeeth
+</option>
+<option value ="Dr. Ram Manohar Lohia Avadh University: Dr. Ram Manohar Lohia Avadh University
+">Dr. Ram Manohar Lohia Avadh University: Dr. Ram Manohar Lohia Avadh University
+</option>
+<option value ="Dr. Ram Manohar Lohiya National Law University: Dr. Ram Manohar Lohiya National Law University
+">Dr. Ram Manohar Lohiya National Law University: Dr. Ram Manohar Lohiya National Law University
+</option>
+<option value ="Dr. Shakuntala Misra National Rehabilitation University: Dr. Shakuntala Misra National Rehabilitation University
+">Dr. Shakuntala Misra National Rehabilitation University: Dr. Shakuntala Misra National Rehabilitation University
+</option>
+<option value ="Dr. Y.S.R. Horticultural University: Dr. Y.S.R. Horticultural University
+">Dr. Y.S.R. Horticultural University: Dr. Y.S.R. Horticultural University
+</option>
+<option value ="Dr. Yashwant Singh Parmar University of Horticulture and Forestry: Dr. Yashwant Singh Parmar University of Horticulture and Forestry
+">Dr. Yashwant Singh Parmar University of Horticulture and Forestry: Dr. Yashwant Singh Parmar University of Horticulture and Forestry
+</option>
+<option value ="Dravidian University: Dravidian University
+">Dravidian University: Dravidian University
+</option>
+<option value ="Durg University: Durg University
+">Durg University: Durg University
+</option>
+<option value ="Eastern Institute for Integrated Learning in Management University: Eastern Institute for Integrated Learning in Management University
+">Eastern Institute for Integrated Learning in Management University: Eastern Institute for Integrated Learning in Management University
+</option>
+<option value ="Engineering, Science, Pharmacy, Management (page does not exist): Engineering, Science, Pharmacy, Management (page does not exist)
+">Engineering, Science, Pharmacy, Management (page does not exist): Engineering, Science, Pharmacy, Management (page does not exist)
+</option>
+<option value ="English and Foreign Languages University: English and Foreign Languages University
+">English and Foreign Languages University: English and Foreign Languages University
+</option>
+<option value ="Eternal University: Eternal University
+">Eternal University: Eternal University
+</option>
+<option value ="Fore School of Management: Fore School of Management
+">Fore School of Management: Fore School of Management
+</option>
+<option value ="GD Goenka University: GD Goenka University
+">GD Goenka University: GD Goenka University
+</option>
+<option value ="GH Raisoni University: GH Raisoni University
+">GH Raisoni University: GH Raisoni University
+</option>
+<option value ="GLA University: GLA University
+">GLA University: GLA University
+</option>
+<option value ="Galgotias University: Galgotias University
+">Galgotias University: Galgotias University
+</option>
+<option value ="Gandhi Institute of Technology and Management: Gandhi Institute of Technology and Management
+">Gandhi Institute of Technology and Management: Gandhi Institute of Technology and Management
+</option>
+<option value ="Gandhigram Rural Institute: Gandhigram Rural Institute
+">Gandhigram Rural Institute: Gandhigram Rural Institute
+</option>
+<option value ="Ganpat University: Ganpat University
+">Ganpat University: Ganpat University
+</option>
+<option value ="Gauhati University: Gauhati University
+">Gauhati University: Gauhati University
+</option>
+<option value ="Gautam Buddha University: Gautam Buddha University
+">Gautam Buddha University: Gautam Buddha University
+</option>
+<option value ="Gautam Budh Nagar district: Gautam Budh Nagar district
+">Gautam Budh Nagar district: Gautam Budh Nagar district
+</option>
+<option value ="Goa University: Goa University
+">Goa University: Goa University
+</option>
+<option value ="Gokhale Institute of Politics and Economics: Gokhale Institute of Politics and Economics
+">Gokhale Institute of Politics and Economics: Gokhale Institute of Politics and Economics
+</option>
+<option value ="Government College of Engineering, Tirunelveli: Government College of Engineering, Tirunelveli
+">Government College of Engineering, Tirunelveli: Government College of Engineering, Tirunelveli
+</option>
+<option value ="Gulbarga University: Gulbarga University
+">Gulbarga University: Gulbarga University
+</option>
+<option value ="Guru Ghasidas University: Guru Ghasidas University
+">Guru Ghasidas University: Guru Ghasidas University
+</option>
+<option value ="Guru Gobind Singh Indraprastha University: Guru Gobind Singh Indraprastha University
+">Guru Gobind Singh Indraprastha University: Guru Gobind Singh Indraprastha University
+</option>
+<option value ="Guru Jambheshwar University of Science and Technology: Guru Jambheshwar University of Science and Technology
+">Guru Jambheshwar University of Science and Technology: Guru Jambheshwar University of Science and Technology
+</option>
+<option value ="Harcourt Butler Technical University: Harcourt Butler Technical University
+">Harcourt Butler Technical University: Harcourt Butler Technical University
+</option>
+<option value ="Haryana Institute of Civil Aviation: Haryana Institute of Civil Aviation
+">Haryana Institute of Civil Aviation: Haryana Institute of Civil Aviation
+</option>
+<option value ="Haryana Vishwakarma Skill University: Haryana Vishwakarma Skill University
+">Haryana Vishwakarma Skill University: Haryana Vishwakarma Skill University
+</option>
+<option value ="Hidayatullah National Law University: Hidayatullah National Law University
+">Hidayatullah National Law University: Hidayatullah National Law University
+</option>
+<option value ="Himachal Pradesh Technical University: Himachal Pradesh Technical University
+">Himachal Pradesh Technical University: Himachal Pradesh Technical University
+</option>
+<option value ="Himachal Pradesh University: Himachal Pradesh University
+">Himachal Pradesh University: Himachal Pradesh University
+</option>
+<option value ="Himalayan University: Himalayan University
+">Himalayan University: Himalayan University
+</option>
+<option value ="Hindustan University: Hindustan University
+">Hindustan University: Hindustan University
+</option>
+<option value ="Homi Bhabha National Institute: Homi Bhabha National Institute
+">Homi Bhabha National Institute: Homi Bhabha National Institute
+</option>
+<option value ="ICFAI University, Raipur: ICFAI University, Raipur
+">ICFAI University, Raipur: ICFAI University, Raipur
+</option>
+<option value ="ICFAI University: ICFAI University
+">ICFAI University: ICFAI University
+</option>
+<option value ="IEC University: IEC University
+">IEC University: IEC University
+</option>
+<option value ="IFTM University: IFTM University
+">IFTM University: IFTM University
+</option>
+<option value ="IIT Kharagpur: IIT Kharagpur
+">IIT Kharagpur: IIT Kharagpur
+</option>
+<option value ="ITM University (Gwalior): ITM University (Gwalior)
+">ITM University (Gwalior): ITM University (Gwalior)
+</option>
+<option value ="Indian Agricultural Research Institute: Indian Agricultural Research Institute
+">Indian Agricultural Research Institute: Indian Agricultural Research Institute
+</option>
+<option value ="Indian Institute of Astrophysics: Indian Institute of Astrophysics
+">Indian Institute of Astrophysics: Indian Institute of Astrophysics
+</option>
+<option value ="Indian Institute of Chemical Biology: Indian Institute of Chemical Biology
+">Indian Institute of Chemical Biology: Indian Institute of Chemical Biology
+</option>
+<option value ="Indian Institute of Crop Processing Technology: Indian Institute of Crop Processing Technology
+">Indian Institute of Crop Processing Technology: Indian Institute of Crop Processing Technology
+</option>
+<option value ="Indian Institute of Foreign Trade: Indian Institute of Foreign Trade
+">Indian Institute of Foreign Trade: Indian Institute of Foreign Trade
+</option>
+<option value ="Indian Institute of Forest Management: Indian Institute of Forest Management
+">Indian Institute of Forest Management: Indian Institute of Forest Management
+</option>
+<option value ="Indian Institute of Handloom Technology: Indian Institute of Handloom Technology
+">Indian Institute of Handloom Technology: Indian Institute of Handloom Technology
+</option>
+<option value ="Indian Institute of Information Technology Design & Manufacturing Kancheepuram: Indian Institute of Information Technology Design & Manufacturing Kancheepuram
+">Indian Institute of Information Technology Design & Manufacturing Kancheepuram: Indian Institute of Information Technology Design & Manufacturing Kancheepuram
+</option>
+<option value ="Indian Institute of Information Technology and Management, Gwalior: Indian Institute of Information Technology and Management, Gwalior
+">Indian Institute of Information Technology and Management, Gwalior: Indian Institute of Information Technology and Management, Gwalior
+</option>
+<option value ="Indian Institute of Information Technology, Design and Manufacturing, Jabalpur: Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
+">Indian Institute of Information Technology, Design and Manufacturing, Jabalpur: Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
+</option>
+<option value ="Indian Institute of Information Technology: Indian Institute of Information Technology
+">Indian Institute of Information Technology: Indian Institute of Information Technology
+</option>
+<option value ="Indian Institute of Management Bangalore: Indian Institute of Management Bangalore
+">Indian Institute of Management Bangalore: Indian Institute of Management Bangalore
+</option>
+<option value ="Indian Institute of Management Indore: Indian Institute of Management Indore
+">Indian Institute of Management Indore: Indian Institute of Management Indore
+</option>
+<option value ="Indian Institute of Management Kashipur: Indian Institute of Management Kashipur
+">Indian Institute of Management Kashipur: Indian Institute of Management Kashipur
+</option>
+<option value ="Indian Institute of Management Rohtak: Indian Institute of Management Rohtak
+">Indian Institute of Management Rohtak: Indian Institute of Management Rohtak
+</option>
+<option value ="Indian Institute of Management Tiruchirappalli: Indian Institute of Management Tiruchirappalli
+">Indian Institute of Management Tiruchirappalli: Indian Institute of Management Tiruchirappalli
+</option>
+<option value ="Indian Institute of Management: Indian Institute of Management
+">Indian Institute of Management: Indian Institute of Management
+</option>
+<option value ="Indian Institute of Mass Communication: Indian Institute of Mass Communication
+">Indian Institute of Mass Communication: Indian Institute of Mass Communication
+</option>
+<option value ="Indian Institute of Petroleum and Energy: Indian Institute of Petroleum and Energy
+">Indian Institute of Petroleum and Energy: Indian Institute of Petroleum and Energy
+</option>
+<option value ="Indian Institute of Science Education and Research, Bhopal: Indian Institute of Science Education and Research, Bhopal
+">Indian Institute of Science Education and Research, Bhopal: Indian Institute of Science Education and Research, Bhopal
+</option>
+<option value ="Indian Institute of Science Education and Research, Kolkata: Indian Institute of Science Education and Research, Kolkata
+">Indian Institute of Science Education and Research, Kolkata: Indian Institute of Science Education and Research, Kolkata
+</option>
+<option value ="Indian Institute of Science Education and Research: Indian Institute of Science Education and Research
+">Indian Institute of Science Education and Research: Indian Institute of Science Education and Research
+</option>
+<option value ="Indian Institute of Science: Indian Institute of Science
+">Indian Institute of Science: Indian Institute of Science
+</option>
+<option value ="Indian Institute of Space Science and Technology: Indian Institute of Space Science and Technology
+">Indian Institute of Space Science and Technology: Indian Institute of Space Science and Technology
+</option>
+<option value ="Indian Institute of Technology Delhi: Indian Institute of Technology Delhi
+">Indian Institute of Technology Delhi: Indian Institute of Technology Delhi
+</option>
+<option value ="Indian Institute of Technology Hyderabad: Indian Institute of Technology Hyderabad
+">Indian Institute of Technology Hyderabad: Indian Institute of Technology Hyderabad
+</option>
+<option value ="Indian Institute of Technology Indore: Indian Institute of Technology Indore
+">Indian Institute of Technology Indore: Indian Institute of Technology Indore
+</option>
+<option value ="Indian Institute of Technology Madras: Indian Institute of Technology Madras
+">Indian Institute of Technology Madras: Indian Institute of Technology Madras
+</option>
+<option value ="Indian Institute of Technology Palakkad: Indian Institute of Technology Palakkad
+">Indian Institute of Technology Palakkad: Indian Institute of Technology Palakkad
+</option>
+<option value ="Indian Institute of Technology Roorkee: Indian Institute of Technology Roorkee
+">Indian Institute of Technology Roorkee: Indian Institute of Technology Roorkee
+</option>
+<option value ="Indian Institute of Technology, Delhi: Indian Institute of Technology, Delhi
+">Indian Institute of Technology, Delhi: Indian Institute of Technology, Delhi
+</option>
+<option value ="Indian Institute of Technology, Patna: Indian Institute of Technology, Patna
+">Indian Institute of Technology, Patna: Indian Institute of Technology, Patna
+</option>
+<option value ="Indian Institute of Technology: Indian Institute of Technology
+">Indian Institute of Technology: Indian Institute of Technology
+</option>
+<option value ="Indian Law Institute: Indian Law Institute
+">Indian Law Institute: Indian Law Institute
+</option>
+<option value ="Indian Maritime University - Visakhapatnam Campus: Indian Maritime University - Visakhapatnam Campus
+">Indian Maritime University - Visakhapatnam Campus: Indian Maritime University - Visakhapatnam Campus
+</option>
+<option value ="Indian Maritime University: Indian Maritime University
+">Indian Maritime University: Indian Maritime University
+</option>
+<option value ="Indian National Defence University: Indian National Defence University
+">Indian National Defence University: Indian National Defence University
+</option>
+<option value ="Indian Statistical Institute: Indian Statistical Institute
+">Indian Statistical Institute: Indian Statistical Institute
+</option>
+<option value ="Indian Veterinary Research Institute: Indian Veterinary Research Institute
+">Indian Veterinary Research Institute: Indian Veterinary Research Institute
+</option>
+<option value ="Indira Gandhi Agricultural University: Indira Gandhi Agricultural University
+">Indira Gandhi Agricultural University: Indira Gandhi Agricultural University
+</option>
+<option value ="Indira Gandhi Delhi Technical University for Women: Indira Gandhi Delhi Technical University for Women
+">Indira Gandhi Delhi Technical University for Women: Indira Gandhi Delhi Technical University for Women
+</option>
+<option value ="Indira Gandhi Institute of Development Research: Indira Gandhi Institute of Development Research
+">Indira Gandhi Institute of Development Research: Indira Gandhi Institute of Development Research
+</option>
+<option value ="Indira Gandhi National Open University: Indira Gandhi National Open University
+">Indira Gandhi National Open University: Indira Gandhi National Open University
+</option>
+<option value ="Indira Gandhi National Tribal University: Indira Gandhi National Tribal University
+">Indira Gandhi National Tribal University: Indira Gandhi National Tribal University
+</option>
+<option value ="Indira Gandhi Technological and Medical Sciences University: Indira Gandhi Technological and Medical Sciences University
+">Indira Gandhi Technological and Medical Sciences University: Indira Gandhi Technological and Medical Sciences University
+</option>
+<option value ="Indira Gandhi University Meerpur, Rewari: Indira Gandhi University Meerpur, Rewari
+">Indira Gandhi University Meerpur, Rewari: Indira Gandhi University Meerpur, Rewari
+</option>
+<option value ="Indira Kala Sangeet Vishwavidyalaya: Indira Kala Sangeet Vishwavidyalaya
+">Indira Kala Sangeet Vishwavidyalaya: Indira Kala Sangeet Vishwavidyalaya
+</option>
+<option value ="Indraprastha Institute of Information Technology: Indraprastha Institute of Information Technology
+">Indraprastha Institute of Information Technology: Indraprastha Institute of Information Technology
+</option>
+<option value ="IndusUniversity: IndusUniversity
+">IndusUniversity: IndusUniversity
+</option>
+<option value ="Institute for excellence in higher education (page does not exist): Institute for excellence in higher education (page does not exist)
+">Institute for excellence in higher education (page does not exist): Institute for excellence in higher education (page does not exist)
+</option>
+<option value ="Institute of Chartered Financial Analysts of India: Institute of Chartered Financial Analysts of India
+">Institute of Chartered Financial Analysts of India: Institute of Chartered Financial Analysts of India
+</option>
+<option value ="Institute of Chemical Technology: Institute of Chemical Technology
+">Institute of Chemical Technology: Institute of Chemical Technology
+</option>
+<option value ="Institute of Liver and Biliary Sciences: Institute of Liver and Biliary Sciences
+">Institute of Liver and Biliary Sciences: Institute of Liver and Biliary Sciences
+</option>
+<option value ="Institute of Mathematical Sciences, Chennai: Institute of Mathematical Sciences, Chennai
+">Institute of Mathematical Sciences, Chennai: Institute of Mathematical Sciences, Chennai
+</option>
+<option value ="Integral University (Lucknow): Integral University (Lucknow)
+">Integral University (Lucknow): Integral University (Lucknow)
+</option>
+<option value ="International Institute for Population Sciences: International Institute for Population Sciences
+">International Institute for Population Sciences: International Institute for Population Sciences
+</option>
+<option value ="International Institute of Information Technology, Bangalore: International Institute of Information Technology, Bangalore
+">International Institute of Information Technology, Bangalore: International Institute of Information Technology, Bangalore
+</option>
+<option value ="International Institute of Information Technology, Hyderabad: International Institute of Information Technology, Hyderabad
+">International Institute of Information Technology, Hyderabad: International Institute of Information Technology, Hyderabad
+</option>
+<option value ="Invertis University: Invertis University
+">Invertis University: Invertis University
+</option>
+<option value ="Islamic University of Science and Technology: Islamic University of Science and Technology
+">Islamic University of Science and Technology: Islamic University of Science and Technology
+</option>
+<option value ="JIS University: JIS University
+">JIS University: JIS University
+</option>
+<option value ="Jabalpur Engineering College: Jabalpur Engineering College
+">Jabalpur Engineering College: Jabalpur Engineering College
+</option>
+<option value ="Jadavpur University: Jadavpur University
+">Jadavpur University: Jadavpur University
+</option>
+<option value ="Jagadguru Rambhadracharya Handicapped University: Jagadguru Rambhadracharya Handicapped University
+">Jagadguru Rambhadracharya Handicapped University: Jagadguru Rambhadracharya Handicapped University
+</option>
+<option value ="Jagadguru Sri Shivarathreeshwara University: Jagadguru Sri Shivarathreeshwara University
+">Jagadguru Sri Shivarathreeshwara University: Jagadguru Sri Shivarathreeshwara University
+</option>
+<option value ="Jagan Nath University, NCR: Jagan Nath University, NCR
+">Jagan Nath University, NCR: Jagan Nath University, NCR
+</option>
+<option value ="Jagran Lakecity University: Jagran Lakecity University
+">Jagran Lakecity University: Jagran Lakecity University
+</option>
+<option value ="Jai Prakash University: Jai Prakash University
+">Jai Prakash University: Jai Prakash University
+</option>
+<option value ="Jain University: Jain University
+">Jain University: Jain University
+</option>
+<option value ="Jamia Millia Islamia: Jamia Millia Islamia
+">Jamia Millia Islamia: Jamia Millia Islamia
+</option>
+<option value ="Jawaharlal Nehru Agricultural University: Jawaharlal Nehru Agricultural University
+">Jawaharlal Nehru Agricultural University: Jawaharlal Nehru Agricultural University
+</option>
+<option value ="Jawaharlal Nehru Centre for Advanced Scientific Research: Jawaharlal Nehru Centre for Advanced Scientific Research
+">Jawaharlal Nehru Centre for Advanced Scientific Research: Jawaharlal Nehru Centre for Advanced Scientific Research
+</option>
+<option value ="Jawaharlal Nehru Technological University, Anantapur: Jawaharlal Nehru Technological University, Anantapur
+">Jawaharlal Nehru Technological University, Anantapur: Jawaharlal Nehru Technological University, Anantapur
+</option>
+<option value ="Jawaharlal Nehru Technological University, Hyderabad: Jawaharlal Nehru Technological University, Hyderabad
+">Jawaharlal Nehru Technological University, Hyderabad: Jawaharlal Nehru Technological University, Hyderabad
+</option>
+<option value ="Jawaharlal Nehru Technological University, Kakinada: Jawaharlal Nehru Technological University, Kakinada
+">Jawaharlal Nehru Technological University, Kakinada: Jawaharlal Nehru Technological University, Kakinada
+</option>
+<option value ="Jawaharlal Nehru University: Jawaharlal Nehru University
+">Jawaharlal Nehru University: Jawaharlal Nehru University
+</option>
+<option value ="Jaypee Institute of Information Technology: Jaypee Institute of Information Technology
+">Jaypee Institute of Information Technology: Jaypee Institute of Information Technology
+</option>
+<option value ="Jaypee University of Engineering and Technology: Jaypee University of Engineering and Technology
+">Jaypee University of Engineering and Technology: Jaypee University of Engineering and Technology
+</option>
+<option value ="Jaypee University of Information Technology: Jaypee University of Information Technology
+">Jaypee University of Information Technology: Jaypee University of Information Technology
+</option>
+<option value ="Jiwaji University: Jiwaji University
+">Jiwaji University: Jiwaji University
+</option>
+<option value ="K L University: K L University
+">K L University: K L University
+</option>
+<option value ="KR Mangalam University: KR Mangalam University
+">KR Mangalam University: KR Mangalam University
+</option>
+<option value ="Kadi Sarva Vishwavidyalaya: Kadi Sarva Vishwavidyalaya
+">Kadi Sarva Vishwavidyalaya: Kadi Sarva Vishwavidyalaya
+</option>
+<option value ="Kakatiya University: Kakatiya University
+">Kakatiya University: Kakatiya University
+</option>
+<option value ="Kalasalingam University: Kalasalingam University
+">Kalasalingam University: Kalasalingam University
+</option>
+<option value ="Kalinga University: Kalinga University
+">Kalinga University: Kalinga University
+</option>
+<option value ="Kaloji Narayana Rao University of Health Sciences: Kaloji Narayana Rao University of Health Sciences
+">Kaloji Narayana Rao University of Health Sciences: Kaloji Narayana Rao University of Health Sciences
+</option>
+<option value ="Kameshwar Singh Darbhanga Sanskrit University: Kameshwar Singh Darbhanga Sanskrit University
+">Kameshwar Singh Darbhanga Sanskrit University: Kameshwar Singh Darbhanga Sanskrit University
+</option>
+<option value ="Kannada University: Kannada University
+">Kannada University: Kannada University
+</option>
+<option value ="Kannur University: Kannur University
+">Kannur University: Kannur University
+</option>
+<option value ="Karnatak Lingayat Education Society: Karnatak Lingayat Education Society
+">Karnatak Lingayat Education Society: Karnatak Lingayat Education Society
+</option>
+<option value ="Karnatak University: Karnatak University
+">Karnatak University: Karnatak University
+</option>
+<option value ="Karnataka Folklore University, Haveri: Karnataka Folklore University, Haveri
+">Karnataka Folklore University, Haveri: Karnataka Folklore University, Haveri
+</option>
+<option value ="Karnataka State Law University: Karnataka State Law University
+">Karnataka State Law University: Karnataka State Law University
+</option>
+<option value ="Karnataka State Music University, Mysore: Karnataka State Music University, Mysore
+">Karnataka State Music University, Mysore: Karnataka State Music University, Mysore
+</option>
+<option value ="Karnataka State Open University: Karnataka State Open University
+">Karnataka State Open University: Karnataka State Open University
+</option>
+<option value ="Karnataka State Women's University: Karnataka State Women's University
+">Karnataka State Women's University: Karnataka State Women's University
+</option>
+<option value ="Karnataka Veterinary, Animal and Fisheries Sciences University: Karnataka Veterinary, Animal and Fisheries Sciences University
+">Karnataka Veterinary, Animal and Fisheries Sciences University: Karnataka Veterinary, Animal and Fisheries Sciences University
+</option>
+<option value ="Karpagam University: Karpagam University
+">Karpagam University: Karpagam University
+</option>
+<option value ="Karunya University: Karunya University
+">Karunya University: Karunya University
+</option>
+<option value ="Kavikulguru Kalidas Sanskrit University: Kavikulguru Kalidas Sanskrit University
+">Kavikulguru Kalidas Sanskrit University: Kavikulguru Kalidas Sanskrit University
+</option>
+<option value ="Kazi Nazrul University: Kazi Nazrul University
+">Kazi Nazrul University: Kazi Nazrul University
+</option>
+<option value ="Kaziranga University: Kaziranga University
+">Kaziranga University: Kaziranga University
+</option>
+<option value ="Kerala Agricultural University: Kerala Agricultural University
+">Kerala Agricultural University: Kerala Agricultural University
+</option>
+<option value ="Kerala Kalamandalam: Kerala Kalamandalam
+">Kerala Kalamandalam: Kerala Kalamandalam
+</option>
+<option value ="Kerala University of Fisheries and Ocean Studies: Kerala University of Fisheries and Ocean Studies
+">Kerala University of Fisheries and Ocean Studies: Kerala University of Fisheries and Ocean Studies
+</option>
+<option value ="Kerala University of Health Sciences: Kerala University of Health Sciences
+">Kerala University of Health Sciences: Kerala University of Health Sciences
+</option>
+<option value ="Kerala Veterinary and Animal Sciences University: Kerala Veterinary and Animal Sciences University
+">Kerala Veterinary and Animal Sciences University: Kerala Veterinary and Animal Sciences University
+</option>
+<option value ="Khwaja Moinuddin Chishti Urdu, Arabi~Farsi University: Khwaja Moinuddin Chishti Urdu, Arabi~Farsi University
+">Khwaja Moinuddin Chishti Urdu, Arabi~Farsi University: Khwaja Moinuddin Chishti Urdu, Arabi~Farsi University
+</option>
+<option value ="King George's Medical University: King George's Medical University
+">King George's Medical University: King George's Medical University
+</option>
+<option value ="Kolhan University: Kolhan University
+">Kolhan University: Kolhan University
+</option>
+<option value ="Krishna Kanta Handique State Open University: Krishna Kanta Handique State Open University
+">Krishna Kanta Handique State Open University: Krishna Kanta Handique State Open University
+</option>
+<option value ="Krishna University: Krishna University
+">Krishna University: Krishna University
+</option>
+<option value ="Kumar Bhaskar Varma Sanskrit and Ancient Studies University: Kumar Bhaskar Varma Sanskrit and Ancient Studies University
+">Kumar Bhaskar Varma Sanskrit and Ancient Studies University: Kumar Bhaskar Varma Sanskrit and Ancient Studies University
+</option>
+<option value ="Kurukshetra University: Kurukshetra University
+">Kurukshetra University: Kurukshetra University
+</option>
+<option value ="Kushabhau Thakre Patrakarita Avam Jansanchar University: Kushabhau Thakre Patrakarita Avam Jansanchar University
+">Kushabhau Thakre Patrakarita Avam Jansanchar University: Kushabhau Thakre Patrakarita Avam Jansanchar University
+</option>
+<option value ="Kuvempu University: Kuvempu University
+">Kuvempu University: Kuvempu University
+</option>
+<option value ="Lakshmibai National University of Physical Education: Lakshmibai National University of Physical Education
+">Lakshmibai National University of Physical Education: Lakshmibai National University of Physical Education
+</option>
+<option value ="Lala Lajpat Rai University of Veterinary and Animal Sciences: Lala Lajpat Rai University of Veterinary and Animal Sciences
+">Lala Lajpat Rai University of Veterinary and Animal Sciences: Lala Lajpat Rai University of Veterinary and Animal Sciences
+</option>
+<option value ="Lalit Narayan Mithila University: Lalit Narayan Mithila University
+">Lalit Narayan Mithila University: Lalit Narayan Mithila University
+</option>
+<option value ="Lingaya's University: Lingaya's University
+">Lingaya's University: Lingaya's University
+</option>
+<option value ="M S Ramaiah University of Applied Sciences: M S Ramaiah University of Applied Sciences
+">M S Ramaiah University of Applied Sciences: M S Ramaiah University of Applied Sciences
+</option>
+<option value ="M. J. P. Rohilkhand University: M. J. P. Rohilkhand University
+">M. J. P. Rohilkhand University: M. J. P. Rohilkhand University
+</option>
+<option value ="MATS University: MATS University
+">MATS University: MATS University
+</option>
+<option value ="MVN University: MVN University
+">MVN University: MVN University
+</option>
+<option value ="Madan Mohan Malaviya University of Technology: Madan Mohan Malaviya University of Technology
+">Madan Mohan Malaviya University of Technology: Madan Mohan Malaviya University of Technology
+</option>
+<option value ="Madhya Pradesh Bhoj Open University: Madhya Pradesh Bhoj Open University
+">Madhya Pradesh Bhoj Open University: Madhya Pradesh Bhoj Open University
+</option>
+<option value ="Madhya Pradesh Medical Science University: Madhya Pradesh Medical Science University
+">Madhya Pradesh Medical Science University: Madhya Pradesh Medical Science University
+</option>
+<option value ="Madras Institute of Development Studies: Madras Institute of Development Studies
+">Madras Institute of Development Studies: Madras Institute of Development Studies
+</option>
+<option value ="Madras Institute of Technology: Madras Institute of Technology
+">Madras Institute of Technology: Madras Institute of Technology
+</option>
+<option value ="Madurai Kamaraj University: Madurai Kamaraj University
+">Madurai Kamaraj University: Madurai Kamaraj University
+</option>
+<option value ="Magadh University: Magadh University
+">Magadh University: Magadh University
+</option>
+<option value ="Mahapurusha Srimanta Sankaradeva Viswavidyalaya: Mahapurusha Srimanta Sankaradeva Viswavidyalaya
+">Mahapurusha Srimanta Sankaradeva Viswavidyalaya: Mahapurusha Srimanta Sankaradeva Viswavidyalaya
+</option>
+<option value ="Maharaja Agrasen University: Maharaja Agrasen University
+">Maharaja Agrasen University: Maharaja Agrasen University
+</option>
+<option value ="Maharaja Chhatrasal Bundelkhand University: Maharaja Chhatrasal Bundelkhand University
+">Maharaja Chhatrasal Bundelkhand University: Maharaja Chhatrasal Bundelkhand University
+</option>
+<option value ="Maharana Pratap Horticultural University, Karnal (page does not exist): Maharana Pratap Horticultural University, Karnal (page does not exist)
+">Maharana Pratap Horticultural University, Karnal (page does not exist): Maharana Pratap Horticultural University, Karnal (page does not exist)
+</option>
+<option value ="Maharashtra Animal and Fishery Sciences University: Maharashtra Animal and Fishery Sciences University
+">Maharashtra Animal and Fishery Sciences University: Maharashtra Animal and Fishery Sciences University
+</option>
+<option value ="Maharashtra University of Health Sciences: Maharashtra University of Health Sciences
+">Maharashtra University of Health Sciences: Maharashtra University of Health Sciences
+</option>
+<option value ="Maharishi Mahesh Yogi Vedic Vishwavidyalaya: Maharishi Mahesh Yogi Vedic Vishwavidyalaya
+">Maharishi Mahesh Yogi Vedic Vishwavidyalaya: Maharishi Mahesh Yogi Vedic Vishwavidyalaya
+</option>
+<option value ="Maharishi Markandeshwar University, Mullana: Maharishi Markandeshwar University, Mullana
+">Maharishi Markandeshwar University, Mullana: Maharishi Markandeshwar University, Mullana
+</option>
+<option value ="Maharishi University of Management and Technology: Maharishi University of Management and Technology
+">Maharishi University of Management and Technology: Maharishi University of Management and Technology
+</option>
+<option value ="Maharshi Dayanand University: Maharshi Dayanand University
+">Maharshi Dayanand University: Maharshi Dayanand University
+</option>
+<option value ="Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya: Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya
+">Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya: Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya
+</option>
+<option value ="Mahatma Gandhi Central University: Mahatma Gandhi Central University
+">Mahatma Gandhi Central University: Mahatma Gandhi Central University
+</option>
+<option value ="Mahatma Gandhi Chitrakoot Gramoday University: Mahatma Gandhi Chitrakoot Gramoday University
+">Mahatma Gandhi Chitrakoot Gramoday University: Mahatma Gandhi Chitrakoot Gramoday University
+</option>
+<option value ="Mahatma Gandhi Kashi Vidyapeeth: Mahatma Gandhi Kashi Vidyapeeth
+">Mahatma Gandhi Kashi Vidyapeeth: Mahatma Gandhi Kashi Vidyapeeth
+</option>
+<option value ="Mahatma Gandhi University, Nalgonda: Mahatma Gandhi University, Nalgonda
+">Mahatma Gandhi University, Nalgonda: Mahatma Gandhi University, Nalgonda
+</option>
+<option value ="Mahatma Gandhi University: Mahatma Gandhi University
+">Mahatma Gandhi University: Mahatma Gandhi University
+</option>
+<option value ="Mahatma Phule Krishi Vidyapeeth: Mahatma Phule Krishi Vidyapeeth
+">Mahatma Phule Krishi Vidyapeeth: Mahatma Phule Krishi Vidyapeeth
+</option>
+<option value ="Makhanlal Chaturvedi National University of Journalism and Communication: Makhanlal Chaturvedi National University of Journalism and Communication
+">Makhanlal Chaturvedi National University of Journalism and Communication: Makhanlal Chaturvedi National University of Journalism and Communication
+</option>
+<option value ="Manav Bharti University: Manav Bharti University
+">Manav Bharti University: Manav Bharti University
+</option>
+<option value ="Manav Rachna International University: Manav Rachna International University
+">Manav Rachna International University: Manav Rachna International University
+</option>
+<option value ="Mandsaur University: Mandsaur University
+">Mandsaur University: Mandsaur University
+</option>
+<option value ="Mangalayatan University: Mangalayatan University
+">Mangalayatan University: Mangalayatan University
+</option>
+<option value ="Mangalore University: Mangalore University
+">Mangalore University: Mangalore University
+</option>
+<option value ="Manipal University: Manipal University
+">Manipal University: Manipal University
+</option>
+<option value ="Manonmaniam Sundaranar University: Manonmaniam Sundaranar University
+">Manonmaniam Sundaranar University: Manonmaniam Sundaranar University
+</option>
+<option value ="Maulana Abul Kalam Azad University of Technology: Maulana Abul Kalam Azad University of Technology
+">Maulana Abul Kalam Azad University of Technology: Maulana Abul Kalam Azad University of Technology
+</option>
+<option value ="Maulana Azad National Institute of Technology: Maulana Azad National Institute of Technology
+">Maulana Azad National Institute of Technology: Maulana Azad National Institute of Technology
+</option>
+<option value ="Maulana Azad National Urdu University: Maulana Azad National Urdu University
+">Maulana Azad National Urdu University: Maulana Azad National Urdu University
+</option>
+<option value ="Maulana Mazharul Haque Arabic and Persian University: Maulana Mazharul Haque Arabic and Persian University
+">Maulana Mazharul Haque Arabic and Persian University: Maulana Mazharul Haque Arabic and Persian University
+</option>
+<option value ="Meenakshi Academy of Higher Education and Research: Meenakshi Academy of Higher Education and Research
+">Meenakshi Academy of Higher Education and Research: Meenakshi Academy of Higher Education and Research
+</option>
+<option value ="Mohammad Ali Jauhar University: Mohammad Ali Jauhar University
+">Mohammad Ali Jauhar University: Mohammad Ali Jauhar University
+</option>
+<option value ="Monad University: Monad University
+">Monad University: Monad University
+</option>
+<option value ="Mother Teresa Women's University: Mother Teresa Women's University
+">Mother Teresa Women's University: Mother Teresa Women's University
+</option>
+<option value ="Mudra Institute of Communications, Ahmedabad: Mudra Institute of Communications, Ahmedabad
+">Mudra Institute of Communications, Ahmedabad: Mudra Institute of Communications, Ahmedabad
+</option>
+<option value ="Multimedia Computer Institute (page does not exist): Multimedia Computer Institute (page does not exist)
+">Multimedia Computer Institute (page does not exist): Multimedia Computer Institute (page does not exist)
+</option>
+<option value ="Munger University (page does not exist): Munger University (page does not exist)
+">Munger University (page does not exist): Munger University (page does not exist)
+</option>
+<option value ="NIILM University: NIILM University
+">NIILM University: NIILM University
+</option>
+<option value ="Nagpur District: Nagpur District
+">Nagpur District: Nagpur District
+</option>
+<option value ="Nalanda International University: Nalanda International University
+">Nalanda International University: Nalanda International University
+</option>
+<option value ="Nalanda Open University: Nalanda Open University
+">Nalanda Open University: Nalanda Open University
+</option>
+<option value ="Nalsar University of Law: Nalsar University of Law
+">Nalsar University of Law: Nalsar University of Law
+</option>
+<option value ="Namchi & Geyzing (page does not exist): Namchi & Geyzing (page does not exist)
+">Namchi & Geyzing (page does not exist): Namchi & Geyzing (page does not exist)
+</option>
+<option value ="Nanaji Deshmukh Veterinary Science University: Nanaji Deshmukh Veterinary Science University
+">Nanaji Deshmukh Veterinary Science University: Nanaji Deshmukh Veterinary Science University
+</option>
+<option value ="Narendra Dev University of Agriculture and Technology: Narendra Dev University of Agriculture and Technology
+">Narendra Dev University of Agriculture and Technology: Narendra Dev University of Agriculture and Technology
+</option>
+<option value ="Narsee Monjee Institute of Management Studies: Narsee Monjee Institute of Management Studies
+">Narsee Monjee Institute of Management Studies: Narsee Monjee Institute of Management Studies
+</option>
+<option value ="National Backward Krushi Vidyapeet Solapur: National Backward Krushi Vidyapeet Solapur
+">National Backward Krushi Vidyapeet Solapur: National Backward Krushi Vidyapeet Solapur
+</option>
+<option value ="National Brain Research Centre: National Brain Research Centre
+">National Brain Research Centre: National Brain Research Centre
+</option>
+<option value ="National Dairy Research Institute: National Dairy Research Institute
+">National Dairy Research Institute: National Dairy Research Institute
+</option>
+<option value ="National Institute of Design, Bangalore: National Institute of Design, Bangalore
+">National Institute of Design, Bangalore: National Institute of Design, Bangalore
+</option>
+<option value ="National Institute of Fashion Technology: National Institute of Fashion Technology
+">National Institute of Fashion Technology: National Institute of Fashion Technology
+</option>
+<option value ="National Institute of Food Technology Entrepreneurship and Management: National Institute of Food Technology Entrepreneurship and Management
+">National Institute of Food Technology Entrepreneurship and Management: National Institute of Food Technology Entrepreneurship and Management
+</option>
+<option value ="National Institute of Technology Andhra Pradesh: National Institute of Technology Andhra Pradesh
+">National Institute of Technology Andhra Pradesh: National Institute of Technology Andhra Pradesh
+</option>
+<option value ="National Institute of Technology Sikkim: National Institute of Technology Sikkim
+">National Institute of Technology Sikkim: National Institute of Technology Sikkim
+</option>
+<option value ="National Institute of Technology Surathkal: National Institute of Technology Surathkal
+">National Institute of Technology Surathkal: National Institute of Technology Surathkal
+</option>
+<option value ="National Institute of Technology Tiruchirappalli: National Institute of Technology Tiruchirappalli
+">National Institute of Technology Tiruchirappalli: National Institute of Technology Tiruchirappalli
+</option>
+<option value ="National Institute of Technology Uttarakhand: National Institute of Technology Uttarakhand
+">National Institute of Technology Uttarakhand: National Institute of Technology Uttarakhand
+</option>
+<option value ="National Institute of Technology, Delhi: National Institute of Technology, Delhi
+">National Institute of Technology, Delhi: National Institute of Technology, Delhi
+</option>
+<option value ="National Institute of Technology, Durgapur: National Institute of Technology, Durgapur
+">National Institute of Technology, Durgapur: National Institute of Technology, Durgapur
+</option>
+<option value ="National Institute of Technology, Puducherry: National Institute of Technology, Puducherry
+">National Institute of Technology, Puducherry: National Institute of Technology, Puducherry
+</option>
+<option value ="National Institute of Technology, Warangal: National Institute of Technology, Warangal
+">National Institute of Technology, Warangal: National Institute of Technology, Warangal
+</option>
+<option value ="National Institute of Technology: National Institute of Technology
+">National Institute of Technology: National Institute of Technology
+</option>
+<option value ="National Law Institute University: National Law Institute University
+">National Law Institute University: National Law Institute University
+</option>
+<option value ="National Law School of India University: National Law School of India University
+">National Law School of India University: National Law School of India University
+</option>
+<option value ="National Law University, Delhi: National Law University, Delhi
+">National Law University, Delhi: National Law University, Delhi
+</option>
+<option value ="National Law University, Sonipat: National Law University, Sonipat
+">National Law University, Sonipat: National Law University, Sonipat
+</option>
+<option value ="National Museum Institute of the History of Art, Conservation and Museology: National Museum Institute of the History of Art, Conservation and Museology
+">National Museum Institute of the History of Art, Conservation and Museology: National Museum Institute of the History of Art, Conservation and Museology
+</option>
+<option value ="National School of Drama: National School of Drama
+">National School of Drama: National School of Drama
+</option>
+<option value ="National University of Advanced Legal Studies: National University of Advanced Legal Studies
+">National University of Advanced Legal Studies: National University of Advanced Legal Studies
+</option>
+<option value ="National University of Educational Planning and Administration: National University of Educational Planning and Administration
+">National University of Educational Planning and Administration: National University of Educational Planning and Administration
+</option>
+<option value ="Nava Nalanda Mahavihara: Nava Nalanda Mahavihara
+">Nava Nalanda Mahavihara: Nava Nalanda Mahavihara
+</option>
+<option value ="Naval Architecture: Naval Architecture
+">Naval Architecture: Naval Architecture
+</option>
+<option value ="Nehru Gram Bharti University (page does not exist): Nehru Gram Bharti University (page does not exist)
+">Nehru Gram Bharti University (page does not exist): Nehru Gram Bharti University (page does not exist)
+</option>
+<option value ="Neotia University: Neotia University
+">Neotia University: Neotia University
+</option>
+<option value ="Netaji Subhas Open University: Netaji Subhas Open University
+">Netaji Subhas Open University: Netaji Subhas Open University
+</option>
+<option value ="Nilamber-Pitamber University: Nilamber-Pitamber University
+">Nilamber-Pitamber University: Nilamber-Pitamber University
+</option>
+<option value ="Nirma University of Science and Technology: Nirma University of Science and Technology
+">Nirma University of Science and Technology: Nirma University of Science and Technology
+</option>
+<option value ="Nitte University: Nitte University
+">Nitte University: Nitte University
+</option>
+<option value ="Noida International University: Noida International University
+">Noida International University: Noida International University
+</option>
+<option value ="Noorul Islam University: Noorul Islam University
+">Noorul Islam University: Noorul Islam University
+</option>
+<option value ="North East Frontier Technical University (NEFTU): North East Frontier Technical University (NEFTU)
+">North East Frontier Technical University (NEFTU): North East Frontier Technical University (NEFTU)
+</option>
+<option value ="North Eastern Regional Institute of Science and Technology: North Eastern Regional Institute of Science and Technology
+">North Eastern Regional Institute of Science and Technology: North Eastern Regional Institute of Science and Technology
+</option>
+<option value ="North Maharashtra University: North Maharashtra University
+">North Maharashtra University: North Maharashtra University
+</option>
+<option value ="O. P. Jindal Global University: O. P. Jindal Global University
+">O. P. Jindal Global University: O. P. Jindal Global University
+</option>
+<option value ="O.P. Jindal University: O.P. Jindal University
+">O.P. Jindal University: O.P. Jindal University
+</option>
+<option value ="Oriental University: Oriental University
+">Oriental University: Oriental University
+</option>
+<option value ="Osmania University: Osmania University
+">Osmania University: Osmania University
+</option>
+<option value ="PDM University: PDM University
+">PDM University: PDM University
+</option>
+<option value ="PEC University of Technology: PEC University of Technology
+">PEC University of Technology: PEC University of Technology
+</option>
+<option value ="PES University: PES University
+">PES University: PES University
+</option>
+<option value ="PK University (page does not exist): PK University (page does not exist)
+">PK University (page does not exist): PK University (page does not exist)
+</option>
+<option value ="Palamuru University: Palamuru University
+">Palamuru University: Palamuru University
+</option>
+<option value ="Pandit Bhagwat Dayal Sharma University of Health Sciences: Pandit Bhagwat Dayal Sharma University of Health Sciences
+">Pandit Bhagwat Dayal Sharma University of Health Sciences: Pandit Bhagwat Dayal Sharma University of Health Sciences
+</option>
+<option value ="Pandit Deendayal Petroleum University: Pandit Deendayal Petroleum University
+">Pandit Deendayal Petroleum University: Pandit Deendayal Petroleum University
+</option>
+<option value ="Pandit Ravishankar Shukla University: Pandit Ravishankar Shukla University
+">Pandit Ravishankar Shukla University: Pandit Ravishankar Shukla University
+</option>
+<option value ="Pandit Sundarlal Sharma (Open) University: Pandit Sundarlal Sharma (Open) University
+">Pandit Sundarlal Sharma (Open) University: Pandit Sundarlal Sharma (Open) University
+</option>
+<option value ="Panjab University: Panjab University
+">Panjab University: Panjab University
+</option>
+<option value ="Parul University: Parul University
+">Parul University: Parul University
+</option>
+<option value ="Patna University: Patna University
+">Patna University: Patna University
+</option>
+<option value ="People's University: People's University
+">People's University: People's University
+</option>
+<option value ="Periyar Maniammai University: Periyar Maniammai University
+">Periyar Maniammai University: Periyar Maniammai University
+</option>
+<option value ="Periyar University: Periyar University
+">Periyar University: Periyar University
+</option>
+<option value ="Postgraduate Institute of Medical Education and Research: Postgraduate Institute of Medical Education and Research
+">Postgraduate Institute of Medical Education and Research: Postgraduate Institute of Medical Education and Research
+</option>
+<option value ="Potti Sreeramulu Telugu University: Potti Sreeramulu Telugu University
+">Potti Sreeramulu Telugu University: Potti Sreeramulu Telugu University
+</option>
+<option value ="Presidency University, Bangalore: Presidency University, Bangalore
+">Presidency University, Bangalore: Presidency University, Bangalore
+</option>
+<option value ="Presidency University, Kolkata: Presidency University, Kolkata
+">Presidency University, Kolkata: Presidency University, Kolkata
+</option>
+<option value ="Prestige institute of management & research (page does not exist): Prestige institute of management & research (page does not exist)
+">Prestige institute of management & research (page does not exist): Prestige institute of management & research (page does not exist)
+</option>
+<option value ="Prist University: Prist University
+">Prist University: Prist University
+</option>
+<option value ="Private university (India): Private university (India)
+">Private university (India): Private university (India)
+</option>
+<option value ="Private university: Private university
+">Private university: Private university
+</option>
+<option value ="Professor Jayashankar Telangana State Agricultural University: Professor Jayashankar Telangana State Agricultural University
+">Professor Jayashankar Telangana State Agricultural University: Professor Jayashankar Telangana State Agricultural University
+</option>
+<option value ="Purnea University (page does not exist): Purnea University (page does not exist)
+">Purnea University (page does not exist): Purnea University (page does not exist)
+</option>
+<option value ="REVA University: REVA University
+">REVA University: REVA University
+</option>
+<option value ="RK University: RK University
+">RK University: RK University
+</option>
+<option value ="RKDF University: RKDF University
+">RKDF University: RKDF University
+</option>
+<option value ="Rabindra Bharati University: Rabindra Bharati University
+">Rabindra Bharati University: Rabindra Bharati University
+</option>
+<option value ="Rai Technology University: Rai Technology University
+">Rai Technology University: Rai Technology University
+</option>
+<option value ="Rai University: Rai University
+">Rai University: Rai University
+</option>
+<option value ="Rajendra Agricultural University: Rajendra Agricultural University
+">Rajendra Agricultural University: Rajendra Agricultural University
+</option>
+<option value ="Rajiv Gandhi National Aviation University: Rajiv Gandhi National Aviation University
+">Rajiv Gandhi National Aviation University: Rajiv Gandhi National Aviation University
+</option>
+<option value ="Rajiv Gandhi Technical University: Rajiv Gandhi Technical University
+">Rajiv Gandhi Technical University: Rajiv Gandhi Technical University
+</option>
+<option value ="Rajiv Gandhi University of Health Sciences: Rajiv Gandhi University of Health Sciences
+">Rajiv Gandhi University of Health Sciences: Rajiv Gandhi University of Health Sciences
+</option>
+<option value ="Rajiv Gandhi University of Knowledge Technologies, Nuzvid: Rajiv Gandhi University of Knowledge Technologies, Nuzvid
+">Rajiv Gandhi University of Knowledge Technologies, Nuzvid: Rajiv Gandhi University of Knowledge Technologies, Nuzvid
+</option>
+<option value ="Rajiv Gandhi University of Knowledge Technologies: Rajiv Gandhi University of Knowledge Technologies
+">Rajiv Gandhi University of Knowledge Technologies: Rajiv Gandhi University of Knowledge Technologies
+</option>
+<option value ="Rajiv Gandhi University: Rajiv Gandhi University
+">Rajiv Gandhi University: Rajiv Gandhi University
+</option>
+<option value ="Rajmata Vijayaraje Scindia Krishi Vishwavidyalaya: Rajmata Vijayaraje Scindia Krishi Vishwavidyalaya
+">Rajmata Vijayaraje Scindia Krishi Vishwavidyalaya: Rajmata Vijayaraje Scindia Krishi Vishwavidyalaya
+</option>
+<option value ="Rama University: Rama University
+">Rama University: Rama University
+</option>
+<option value ="Ramakrishna Mission Vivekananda University - Coimbatore Campus: Ramakrishna Mission Vivekananda University - Coimbatore Campus
+">Ramakrishna Mission Vivekananda University - Coimbatore Campus: Ramakrishna Mission Vivekananda University - Coimbatore Campus
+</option>
+<option value ="Ramakrishna Mission Vivekananda University: Ramakrishna Mission Vivekananda University
+">Ramakrishna Mission Vivekananda University: Ramakrishna Mission Vivekananda University
+</option>
+<option value ="Ranchi University: Ranchi University
+">Ranchi University: Ranchi University
+</option>
+<option value ="Rani Channamma University, Belgaum: Rani Channamma University, Belgaum
+">Rani Channamma University, Belgaum: Rani Channamma University, Belgaum
+</option>
+<option value ="Rani Durgavati University: Rani Durgavati University
+">Rani Durgavati University: Rani Durgavati University
+</option>
+<option value ="Rashtrasant Tukadoji Maharaj Nagpur University: Rashtrasant Tukadoji Maharaj Nagpur University
+">Rashtrasant Tukadoji Maharaj Nagpur University: Rashtrasant Tukadoji Maharaj Nagpur University
+</option>
+<option value ="Rashtriya Sanskrit Sansthan: Rashtriya Sanskrit Sansthan
+">Rashtriya Sanskrit Sansthan: Rashtriya Sanskrit Sansthan
+</option>
+<option value ="Rashtriya Sanskrit Vidyapeetha: Rashtriya Sanskrit Vidyapeetha
+">Rashtriya Sanskrit Vidyapeetha: Rashtriya Sanskrit Vidyapeetha
+</option>
+<option value ="Rayalaseema University: Rayalaseema University
+">Rayalaseema University: Rayalaseema University
+</option>
+<option value ="Royal Global University: Royal Global University
+">Royal Global University: Royal Global University
+</option>
+<option value ="SRM University, Sikkim: SRM University, Sikkim
+">SRM University, Sikkim: SRM University, Sikkim
+</option>
+<option value ="SRM University: SRM University
+">SRM University: SRM University
+</option>
+<option value ="Sampurnanand Sanskrit University: Sampurnanand Sanskrit University
+">Sampurnanand Sanskrit University: Sampurnanand Sanskrit University
+</option>
+<option value ="Sant Gadge Baba Amravati University: Sant Gadge Baba Amravati University
+">Sant Gadge Baba Amravati University: Sant Gadge Baba Amravati University
+</option>
+<option value ="Santosh University: Santosh University
+">Santosh University: Santosh University
+</option>
+<option value ="Sardar Vallabhbhai Patel International School of Textiles & Management: Sardar Vallabhbhai Patel International School of Textiles & Management
+">Sardar Vallabhbhai Patel International School of Textiles & Management: Sardar Vallabhbhai Patel International School of Textiles & Management
+</option>
+<option value ="Sardar Vallabhbhai Patel University of Agriculture and Technology: Sardar Vallabhbhai Patel University of Agriculture and Technology
+">Sardar Vallabhbhai Patel University of Agriculture and Technology: Sardar Vallabhbhai Patel University of Agriculture and Technology
+</option>
+<option value ="Sarguja University: Sarguja University
+">Sarguja University: Sarguja University
+</option>
+<option value ="Sarvepalli Radhakrishnan University: Sarvepalli Radhakrishnan University
+">Sarvepalli Radhakrishnan University: Sarvepalli Radhakrishnan University
+</option>
+<option value ="Satavahana University: Satavahana University
+">Satavahana University: Satavahana University
+</option>
+<option value ="Sathyabama University: Sathyabama University
+">Sathyabama University: Sathyabama University
+</option>
+<option value ="Saveetha University: Saveetha University
+">Saveetha University: Saveetha University
+</option>
+<option value ="Savitribai Phule Pune University: Savitribai Phule Pune University
+">Savitribai Phule Pune University: Savitribai Phule Pune University
+</option>
+<option value ="School of Inspired Leadership: School of Inspired Leadership
+">School of Inspired Leadership: School of Inspired Leadership
+</option>
+<option value ="School of Planning and Architecture, Bhopal: School of Planning and Architecture, Bhopal
+">School of Planning and Architecture, Bhopal: School of Planning and Architecture, Bhopal
+</option>
+<option value ="School of Planning and Architecture, Delhi: School of Planning and Architecture, Delhi
+">School of Planning and Architecture, Delhi: School of Planning and Architecture, Delhi
+</option>
+<option value ="School of Planning and Architecture, Vijayawada: School of Planning and Architecture, Vijayawada
+">School of Planning and Architecture, Vijayawada: School of Planning and Architecture, Vijayawada
+</option>
+<option value ="Seacom Skills University: Seacom Skills University
+">Seacom Skills University: Seacom Skills University
+</option>
+<option value ="Senate of Serampore College (University): Senate of Serampore College (University)
+">Senate of Serampore College (University): Senate of Serampore College (University)
+</option>
+<option value ="Serampore College: Serampore College
+">Serampore College: Serampore College
+</option>
+<option value ="Shanmugha Arts, Science, Technology & Research Academy: Shanmugha Arts, Science, Technology & Research Academy
+">Shanmugha Arts, Science, Technology & Research Academy: Shanmugha Arts, Science, Technology & Research Academy
+</option>
+<option value ="Sharda University: Sharda University
+">Sharda University: Sharda University
+</option>
+<option value ="Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu: Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu
+">Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu: Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu
+</option>
+<option value ="Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir: Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir
+">Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir: Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir
+</option>
+<option value ="Shiv Nadar University: Shiv Nadar University
+">Shiv Nadar University: Shiv Nadar University
+</option>
+<option value ="Shivaji University: Shivaji University
+">Shivaji University: Shivaji University
+</option>
+<option value ="Shobhit University: Shobhit University
+">Shobhit University: Shobhit University
+</option>
+<option value ="Shoolini University: Shoolini University
+">Shoolini University: Shoolini University
+</option>
+<option value ="Shree Guru Gobind Singh Tricentenary University: Shree Guru Gobind Singh Tricentenary University
+">Shree Guru Gobind Singh Tricentenary University: Shree Guru Gobind Singh Tricentenary University
+</option>
+<option value ="Shreemati Nathibai Damodar Thackersey Women's University: Shreemati Nathibai Damodar Thackersey Women's University
+">Shreemati Nathibai Damodar Thackersey Women's University: Shreemati Nathibai Damodar Thackersey Women's University
+</option>
+<option value ="Shri B. M. Patil Medical College: Shri B. M. Patil Medical College
+">Shri B. M. Patil Medical College: Shri B. M. Patil Medical College
+</option>
+<option value ="Shri Govindram Seksaria Institute of Technology and Science: Shri Govindram Seksaria Institute of Technology and Science
+">Shri Govindram Seksaria Institute of Technology and Science: Shri Govindram Seksaria Institute of Technology and Science
+</option>
+<option value ="Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha: Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha
+">Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha: Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha
+</option>
+<option value ="Shri Mata Vaishno Devi University: Shri Mata Vaishno Devi University
+">Shri Mata Vaishno Devi University: Shri Mata Vaishno Devi University
+</option>
+<option value ="Shri Venkateshwara University: Shri Venkateshwara University
+">Shri Venkateshwara University: Shri Venkateshwara University
+</option>
+<option value ="Siddharth Nagar District: Siddharth Nagar District
+">Siddharth Nagar District: Siddharth Nagar District
+</option>
+<option value ="Siddharth University: Siddharth University
+">Siddharth University: Siddharth University
+</option>
+<option value ="Sidho Kanho Birsha University: Sidho Kanho Birsha University
+">Sidho Kanho Birsha University: Sidho Kanho Birsha University
+</option>
+<option value ="Sido Kanhu University: Sido Kanhu University
+">Sido Kanhu University: Sido Kanhu University
+</option>
+<option value ="Sikkim Manipal University: Sikkim Manipal University
+">Sikkim Manipal University: Sikkim Manipal University
+</option>
+<option value ="Sikkim University: Sikkim University
+">Sikkim University: Sikkim University
+</option>
+<option value ="Skill India: Skill India
+">Skill India: Skill India
+</option>
+<option value ="Skyline Business School: Skyline Business School
+">Skyline Business School: Skyline Business School
+</option>
+<option value ="Solapur University: Solapur University
+">Solapur University: Solapur University
+</option>
+<option value ="South Asian University: South Asian University
+">South Asian University: South Asian University
+</option>
+<option value ="Sree Chitra Tirunal Institute for Medical Sciences and Technology: Sree Chitra Tirunal Institute for Medical Sciences and Technology
+">Sree Chitra Tirunal Institute for Medical Sciences and Technology: Sree Chitra Tirunal Institute for Medical Sciences and Technology
+</option>
+<option value ="Sree Sankaracharya University of Sanskrit: Sree Sankaracharya University of Sanskrit
+">Sree Sankaracharya University of Sanskrit: Sree Sankaracharya University of Sanskrit
+</option>
+<option value ="Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya: Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya
+">Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya: Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya
+</option>
+<option value ="Sri Devaraj Urs Medical College: Sri Devaraj Urs Medical College
+">Sri Devaraj Urs Medical College: Sri Devaraj Urs Medical College
+</option>
+<option value ="Sri Konda Laxman Telangana State Horticultural University: Sri Konda Laxman Telangana State Horticultural University
+">Sri Konda Laxman Telangana State Horticultural University: Sri Konda Laxman Telangana State Horticultural University
+</option>
+<option value ="Sri Krishnadevaraya University: Sri Krishnadevaraya University
+">Sri Krishnadevaraya University: Sri Krishnadevaraya University
+</option>
+<option value ="Sri Padmavati Mahila Visvavidyalayam: Sri Padmavati Mahila Visvavidyalayam
+">Sri Padmavati Mahila Visvavidyalayam: Sri Padmavati Mahila Visvavidyalayam
+</option>
+<option value ="Sri Ramachandra Medical College and Research Institute: Sri Ramachandra Medical College and Research Institute
+">Sri Ramachandra Medical College and Research Institute: Sri Ramachandra Medical College and Research Institute
+</option>
+<option value ="Sri Sai University: Sri Sai University
+">Sri Sai University: Sri Sai University
+</option>
+<option value ="Sri Sathya Sai University: Sri Sathya Sai University
+">Sri Sathya Sai University: Sri Sathya Sai University
+</option>
+<option value ="Sri Siddhartha Academy of Higher Education: Sri Siddhartha Academy of Higher Education
+">Sri Siddhartha Academy of Higher Education: Sri Siddhartha Academy of Higher Education
+</option>
+<option value ="Sri Venkateswara University: Sri Venkateswara University
+">Sri Venkateswara University: Sri Venkateswara University
+</option>
+<option value ="Srimanta Sankaradeva University of Health Sciences: Srimanta Sankaradeva University of Health Sciences
+">Srimanta Sankaradeva University of Health Sciences: Srimanta Sankaradeva University of Health Sciences
+</option>
+<option value ="Swami Ramanand Teerth Marathwada University: Swami Ramanand Teerth Marathwada University
+">Swami Ramanand Teerth Marathwada University: Swami Ramanand Teerth Marathwada University
+</option>
+<option value ="Swami Vivekanand Subharti University: Swami Vivekanand Subharti University
+">Swami Vivekanand Subharti University: Swami Vivekanand Subharti University
+</option>
+<option value ="Swami Vivekanand University, Madhya Pradesh: Swami Vivekanand University, Madhya Pradesh
+">Swami Vivekanand University, Madhya Pradesh: Swami Vivekanand University, Madhya Pradesh
+</option>
+<option value ="Swami Vivekananda Yoga Anusandhana Samsthana: Swami Vivekananda Yoga Anusandhana Samsthana
+">Swami Vivekananda Yoga Anusandhana Samsthana: Swami Vivekananda Yoga Anusandhana Samsthana
+</option>
+<option value ="Symbiosis International University: Symbiosis International University
+">Symbiosis International University: Symbiosis International University
+</option>
+<option value ="TERI University: TERI University
+">TERI University: TERI University
+</option>
+<option value ="Tamil Nadu Agricultural University: Tamil Nadu Agricultural University
+">Tamil Nadu Agricultural University: Tamil Nadu Agricultural University
+</option>
+<option value ="Tamil Nadu Dr. Ambedkar Law University: Tamil Nadu Dr. Ambedkar Law University
+">Tamil Nadu Dr. Ambedkar Law University: Tamil Nadu Dr. Ambedkar Law University
+</option>
+<option value ="Tamil Nadu Fisheries University: Tamil Nadu Fisheries University
+">Tamil Nadu Fisheries University: Tamil Nadu Fisheries University
+</option>
+<option value ="Tamil Nadu Horticulture University: Tamil Nadu Horticulture University
+">Tamil Nadu Horticulture University: Tamil Nadu Horticulture University
+</option>
+<option value ="Tamil Nadu National Law School: Tamil Nadu National Law School
+">Tamil Nadu National Law School: Tamil Nadu National Law School
+</option>
+<option value ="Tamil Nadu Open University: Tamil Nadu Open University
+">Tamil Nadu Open University: Tamil Nadu Open University
+</option>
+<option value ="Tamil Nadu Physical Education and Sports University: Tamil Nadu Physical Education and Sports University
+">Tamil Nadu Physical Education and Sports University: Tamil Nadu Physical Education and Sports University
+</option>
+<option value ="Tamil Nadu Teachers Education University: Tamil Nadu Teachers Education University
+">Tamil Nadu Teachers Education University: Tamil Nadu Teachers Education University
+</option>
+<option value ="Tamil Nadu Veterinary and Animal Sciences University: Tamil Nadu Veterinary and Animal Sciences University
+">Tamil Nadu Veterinary and Animal Sciences University: Tamil Nadu Veterinary and Animal Sciences University
+</option>
+<option value ="Tamil University: Tamil University
+">Tamil University: Tamil University
+</option>
+<option value ="Tamil Virtual Academy: Tamil Virtual Academy
+">Tamil Virtual Academy: Tamil Virtual Academy
+</option>
+<option value ="Tata Institute of Fundamental Research: Tata Institute of Fundamental Research
+">Tata Institute of Fundamental Research: Tata Institute of Fundamental Research
+</option>
+<option value ="Tata Institute of Social Sciences: Tata Institute of Social Sciences
+">Tata Institute of Social Sciences: Tata Institute of Social Sciences
+</option>
+<option value ="Techno Global University: Techno Global University
+">Techno Global University: Techno Global University
+</option>
+<option value ="Techno India University: Techno India University
+">Techno India University: Techno India University
+</option>
+<option value ="Teerthanker Mahaveer University: Teerthanker Mahaveer University
+">Teerthanker Mahaveer University: Teerthanker Mahaveer University
+</option>
+<option value ="Telangana University: Telangana University
+">Telangana University: Telangana University
+</option>
+<option value ="Tezpur University: Tezpur University
+">Tezpur University: Tezpur University
+</option>
+<option value ="The Glocal University: The Glocal University
+">The Glocal University: The Glocal University
+</option>
+<option value ="The Northcap University: The Northcap University
+">The Northcap University: The Northcap University
+</option>
+<option value ="The Sanskrit College and University: The Sanskrit College and University
+">The Sanskrit College and University: The Sanskrit College and University
+</option>
+<option value ="The Tamil Nadu Dr. M. G. R. Medical University: The Tamil Nadu Dr. M. G. R. Medical University
+">The Tamil Nadu Dr. M. G. R. Medical University: The Tamil Nadu Dr. M. G. R. Medical University
+</option>
+<option value ="Thiruvalluvar University: Thiruvalluvar University
+">Thiruvalluvar University: Thiruvalluvar University
+</option>
+<option value ="Thunchath Ezhuthachan Malayalam University: Thunchath Ezhuthachan Malayalam University
+">Thunchath Ezhuthachan Malayalam University: Thunchath Ezhuthachan Malayalam University
+</option>
+<option value ="Tilak Maharashtra University: Tilak Maharashtra University
+">Tilak Maharashtra University: Tilak Maharashtra University
+</option>
+<option value ="Tilka Manjhi Bhagalpur University: Tilka Manjhi Bhagalpur University
+">Tilka Manjhi Bhagalpur University: Tilka Manjhi Bhagalpur University
+</option>
+<option value ="Tumkur University: Tumkur University
+">Tumkur University: Tumkur University
+</option>
+<option value ="U.P. Pt. Deen Dayal Upadhyay Pashu Chikitsa Vigyan Vishwavidyalaya Evam Go-Ansundhan Sansthan: U.P. Pt. Deen Dayal Upadhyay Pashu Chikitsa Vigyan Vishwavidyalaya Evam Go-Ansundhan Sansthan
+">U.P. Pt. Deen Dayal Upadhyay Pashu Chikitsa Vigyan Vishwavidyalaya Evam Go-Ansundhan Sansthan: U.P. Pt. Deen Dayal Upadhyay Pashu Chikitsa Vigyan Vishwavidyalaya Evam Go-Ansundhan Sansthan
+</option>
+<option value ="Uka Tarsadia University: Uka Tarsadia University
+">Uka Tarsadia University: Uka Tarsadia University
+</option>
+<option value ="University of Agricultural Sciences, Bangalore: University of Agricultural Sciences, Bangalore
+">University of Agricultural Sciences, Bangalore: University of Agricultural Sciences, Bangalore
+</option>
+<option value ="University of Agricultural Sciences, Dharwad: University of Agricultural Sciences, Dharwad
+">University of Agricultural Sciences, Dharwad: University of Agricultural Sciences, Dharwad
+</option>
+<option value ="University of Agricultural Sciences, Raichur: University of Agricultural Sciences, Raichur
+">University of Agricultural Sciences, Raichur: University of Agricultural Sciences, Raichur
+</option>
+<option value ="University of Agricultural and Horticultural Sciences, Shivamogga: University of Agricultural and Horticultural Sciences, Shivamogga
+">University of Agricultural and Horticultural Sciences, Shivamogga: University of Agricultural and Horticultural Sciences, Shivamogga
+</option>
+<option value ="University of Allahabad: University of Allahabad
+">University of Allahabad: University of Allahabad
+</option>
+<option value ="University of Burdwan: University of Burdwan
+">University of Burdwan: University of Burdwan
+</option>
+<option value ="University of Calcutta: University of Calcutta
+">University of Calcutta: University of Calcutta
+</option>
+<option value ="University of Calicut: University of Calicut
+">University of Calicut: University of Calicut
+</option>
+<option value ="University of Delhi: University of Delhi
+">University of Delhi: University of Delhi
+</option>
+<option value ="University of Engineering & Management (UEM), Kolkata: University of Engineering & Management (UEM), Kolkata
+">University of Engineering & Management (UEM), Kolkata: University of Engineering & Management (UEM), Kolkata
+</option>
+<option value ="University of Gour Banga: University of Gour Banga
+">University of Gour Banga: University of Gour Banga
+</option>
+<option value ="University of Horticultural Sciences, Bagalkot: University of Horticultural Sciences, Bagalkot
+">University of Horticultural Sciences, Bagalkot: University of Horticultural Sciences, Bagalkot
+</option>
+<option value ="University of Hyderabad: University of Hyderabad
+">University of Hyderabad: University of Hyderabad
+</option>
+<option value ="University of Jammu: University of Jammu
+">University of Jammu: University of Jammu
+</option>
+<option value ="University of Kalyani: University of Kalyani
+">University of Kalyani: University of Kalyani
+</option>
+<option value ="University of Kashmir: University of Kashmir
+">University of Kashmir: University of Kashmir
+</option>
+<option value ="University of Kerala: University of Kerala
+">University of Kerala: University of Kerala
+</option>
+<option value ="University of Lucknow: University of Lucknow
+">University of Lucknow: University of Lucknow
+</option>
+<option value ="University of Madras: University of Madras
+">University of Madras: University of Madras
+</option>
+<option value ="University of Mumbai: University of Mumbai
+">University of Mumbai: University of Mumbai
+</option>
+<option value ="University of Mysore: University of Mysore
+">University of Mysore: University of Mysore
+</option>
+<option value ="University of North Bengal: University of North Bengal
+">University of North Bengal: University of North Bengal
+</option>
+<option value ="Uttar Banga Krishi Vishwavidyalaya: Uttar Banga Krishi Vishwavidyalaya
+">Uttar Banga Krishi Vishwavidyalaya: Uttar Banga Krishi Vishwavidyalaya
+</option>
+<option value ="Uttar Pradesh Rajarshi Tandon Open University: Uttar Pradesh Rajarshi Tandon Open University
+">Uttar Pradesh Rajarshi Tandon Open University: Uttar Pradesh Rajarshi Tandon Open University
+</option>
+<option value ="Uttar Pradesh University of Medical Sciences: Uttar Pradesh University of Medical Sciences
+">Uttar Pradesh University of Medical Sciences: Uttar Pradesh University of Medical Sciences
+</option>
+<option value ="VIT University: VIT University
+">VIT University: VIT University
+</option>
+<option value ="Vasantrao Naik Marathwada Agricultural University: Vasantrao Naik Marathwada Agricultural University
+">Vasantrao Naik Marathwada Agricultural University: Vasantrao Naik Marathwada Agricultural University
+</option>
+<option value ="Veer Bahadur Singh Purvanchal University: Veer Bahadur Singh Purvanchal University
+">Veer Bahadur Singh Purvanchal University: Veer Bahadur Singh Purvanchal University
+</option>
+<option value ="Veer Kunwar Singh University: Veer Kunwar Singh University
+">Veer Kunwar Singh University: Veer Kunwar Singh University
+</option>
+<option value ="Vel Tech Dr.RR & Dr.SR Technical University: Vel Tech Dr.RR & Dr.SR Technical University
+">Vel Tech Dr.RR & Dr.SR Technical University: Vel Tech Dr.RR & Dr.SR Technical University
+</option>
+<option value ="Vels University: Vels University
+">Vels University: Vels University
+</option>
+<option value ="Venkateshwara Open University: Venkateshwara Open University
+">Venkateshwara Open University: Venkateshwara Open University
+</option>
+<option value ="Vidyasagar University: Vidyasagar University
+">Vidyasagar University: Vidyasagar University
+</option>
+<option value ="Vignan University: Vignan University
+">Vignan University: Vignan University
+</option>
+<option value ="Vijayanagara Sri Krishnadevaraya University: Vijayanagara Sri Krishnadevaraya University
+">Vijayanagara Sri Krishnadevaraya University: Vijayanagara Sri Krishnadevaraya University
+</option>
+<option value ="Vikram University: Vikram University
+">Vikram University: Vikram University
+</option>
+<option value ="Vikrama Simhapuri University: Vikrama Simhapuri University
+">Vikrama Simhapuri University: Vikrama Simhapuri University
+</option>
+<option value ="Vinayaka Mission's Research Foundation, Deemed University: Vinayaka Mission's Research Foundation, Deemed University
+">Vinayaka Mission's Research Foundation, Deemed University: Vinayaka Mission's Research Foundation, Deemed University
+</option>
+<option value ="Vinoba Bhave University: Vinoba Bhave University
+">Vinoba Bhave University: Vinoba Bhave University
+</option>
+<option value ="Visva-Bharati University: Visva-Bharati University
+">Visva-Bharati University: Visva-Bharati University
+</option>
+<option value ="Visvesvaraya Technological University: Visvesvaraya Technological University
+">Visvesvaraya Technological University: Visvesvaraya Technological University
+</option>
+<option value ="West Bengal National University of Juridical Sciences: West Bengal National University of Juridical Sciences
+">West Bengal National University of Juridical Sciences: West Bengal National University of Juridical Sciences
+</option>
+<option value ="West Bengal State University: West Bengal State University
+">West Bengal State University: West Bengal State University
+</option>
+<option value ="West Bengal University of Animal and Fishery Sciences: West Bengal University of Animal and Fishery Sciences
+">West Bengal University of Animal and Fishery Sciences: West Bengal University of Animal and Fishery Sciences
+</option>
+<option value ="West Bengal University of Health Sciences: West Bengal University of Health Sciences
+">West Bengal University of Health Sciences: West Bengal University of Health Sciences
+</option>
+<option value ="Xavier Institute of Development Action and Studies: Xavier Institute of Development Action and Studies
+">Xavier Institute of Development Action and Studies: Xavier Institute of Development Action and Studies
+</option>
+<option value ="YMCA University of Science and Technology: YMCA University of Science and Technology
+">YMCA University of Science and Technology: YMCA University of Science and Technology
+</option>
+<option value ="Yashwantrao Chavan Maharashtra Open University: Yashwantrao Chavan Maharashtra Open University
+">Yashwantrao Chavan Maharashtra Open University: Yashwantrao Chavan Maharashtra Open University
+</option>
+<option value ="Yenepoya University: Yenepoya University
+">Yenepoya University: Yenepoya University
+</option>
+<option value ="Yogi Vemana University: Yogi Vemana University
+">Yogi Vemana University: Yogi Vemana University
+</option>

@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>PDFmake builder</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<meta name="author" content="Surya T" />
+	<meta name="description" content="Builder ResumePad" />
+	<meta name="keywords"  content="resume,resumepad,cv" />
+	<meta name="Resource-type" content="Document" />
+
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.34/pdfmake.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.34/vfs_fonts.js"></script>
+
+<style type="text/css">
+	*{margin: 0;border:0;padding: 0;outline: 0;}
+
+
+	body{
+		width: 100%;
+		height: 100%;
+		text-align: center;
+	}
+
+	#view-pdf{
+		position: fixed;
+		top:5px;
+		right: 5px;
+		width: 100px;
+		height: 30px;
+		line-height: 30px;
+		background-color: skyblue;
+		color: white;
+		cursor: pointer;
+		box-shadow: 0px 1px 5px rgba(0,0,0,0.2);
+		font-size: 16px;
+		border-radius:2px;
+	}
+
+	#container{
+		width: 850px;
+		height: 100%;
+		display: block;
+		margin: 0px auto;
+		text-align: center;
+	}
+
+	input{
+		display: inline-block;
+		width: 400px;
+		height:40px;
+		line-height: 40px;
+		font-size: 20px;
+		color:#555555;
+		background-color: #fafafa;
+		margin: 20px auto;
+		padding: 5px 0px;
+		border:1px solid #cacaca;
+		text-align: center;
+	}
+
+	#fullname{
+		margin-top:80px;
+	}
+
+	textarea{
+		width: 800px;
+		height: 200px;
+		border: 1px solid #cacaca;
+		font-size: 20px;
+		color: #555555;
+		padding: 5px;
+		resize: none;
+		overflow-y:scroll;
+	}
+
+	#work-exp-box{
+		margin-top:20px;
+	}
+
+
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+<div id="container">
+	<input id="fullname" type="text" placeholder="Your Full Name">
+	<input id="dob" type="text" placeholder="Date of Birth">
+	<input id="city" type="text" placeholder="Your City">
+	<input id="state" type="text" placeholder="State">
+	<input id="country" type="text" placeholder="Country">
+	<input id="pincode" type="text" placeholder="Area PinCode">
+	<input id="phone" type="text" placeholder="Phone Number">
+	<input id="email" type="text" placeholder="Email">
+	<textarea id="profile" placeholder="Your Profile Summary..."></textarea>
+	<div id="work-exp-box">
+	<span>Work Experience</span>
+	<button id="add-work-exp">add +</button>
+	</div>
+</div>
+
+
+<button id="view-pdf" onclick="openPDF()" >view pdf</button>
+
+<!-- <script type="text/javascript">
+	function loadScript(url) {
+	    var s = document.createElement('script');
+	    s.type = 'text/javascript';
+	    s.async = true;
+	    s.src = url;
+	    var x = document.getElementsByTagName('head')[0];
+	    x.appendChild(s);
+	}
+</script>
+
+<script type="text/javascript">
+	loadScript("https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.35/pdfmake.min.js");
+	loadScript("https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.35/vfs_fonts.js");
+</script> -->
+
+<script type="text/javascript">
+var i=0;
+$('#add-work-exp').click(function(){
+    var hcid="hc"+i;
+    var hid="h"+i;
+    var remove_div_func='$("#'+hcid+',#htb'+i+'").remove()'
+    $('#work-exp-box').append($('<div>',{'id':hcid,'class':'work-input-box'}).append($('<input>', {'id':hid,'class':'j-element job-title','placeholder':'Your work experience','type':'text','maxlength':'100','autofocus':'autofocus','oninput':'auto_grow(this);'}),
+        $('<button>', {'class':'remove-div','onclick':remove_div_func}).text('x')));
+    i++;
+});
+</script>
+
+<script>
+   function auto_grow(element) {
+    element.style.height = "5px";
+    element.style.height = (element.scrollHeight)+"px";
+}
+</script>
+
+<script type="text/javascript">
+
+function openPDF(){
+	
+	var docDefinition = {
+		content:[
+			{ 	
+				columns: [
+			        {
+			          	width: '60%',
+			    		stack: [
+			    			{ text: '( Name )', style: 'name'},
+			    			{ text: '( Address )', style: 'para',margin: [0, 3, 0, 0]},
+			    		],
+			        },
+
+			        {
+						width: '40%',
+						stack: [
+							{ text: [{text: 'D.O.B  : '} ,{text: '( date )', style: 'para'}], margin: [0,0,0,5]},
+							{ text: [{text: 'Phone : '} ,{text: '( number )', style: 'para'}] ,margin: [0,0,0,5]},
+							{ text: [{text: 'Email  : '} ,{text :'( email )', style: 'para'}] ,margin: [0,0,0,0]},
+						],
+						fontSize : 12,
+						color : '#222222',
+						bold : true,
+						margin: [0, 5, 0, 0]
+			        },
+		    	],margin : [0, 0, 0, 20]
+			},
+
+			{
+				columns: [
+					{
+						width: '100%',
+						stack: [
+							{ text: 'Profile Summary', style: 'heading'},
+							{ image: 'lineImage',width: 510,height:15, margin: [ 0, 0, 0, 5]},
+							{ text: 'text', style: 'para'},
+						]
+					}
+				],margin : [0, 0, 0, 20]
+			},
+
+			{
+				columns: [
+					{
+						width: '100%',
+						stack: [
+							{ text: 'Work Experience', style: 'heading'},
+							{ image: 'lineImage',width: 510,height:15, margin: [ 0, 0, 0, 5]},
+							{
+								ul: [
+									{ text: ['Software Developer at Google , Gurgoan',{text : "  January 2015 - September 2016", style: 'adjText'}]},
+									{ text: ['Senior Designer at Facebook , California',{text : "  October 2016 - July 2017", style: 'adjText'}]},
+									{ text: ['Vice President and Sensior Developer at Lucid Tech , Bangalore',{text : "  August 2017 - December 2017", style: 'adjText'}]},
+								],
+								style : 'para'
+						    },
+						]
+					}
+				],margin : [0, 0, 0, 20]
+			},
+
+			{
+				columns: [
+					{
+						width: '100%',
+						stack: [
+							{ text: 'Internships', style: 'heading'},
+							{ image: 'lineImage',width: 510,height:15, margin: [ 0, 0, 0, 5]},
+							{
+								ul: [
+									{ text: ['Business Development at SlicePay , Bangalore',{text : "  June 2016 - July 2016", style: 'adjText'}]},
+									{ text: ['Web Development at SkillMithra , Bangalore',{text : "  June 2016 - July 2016", style: 'adjText'}]},
+								],
+								style : 'para'
+						    },
+						]
+					}
+				],margin : [0, 0, 0, 20]
+			},
+
+			{
+				columns: [
+					{
+						width: '100%',
+						stack: [
+							{ text: 'Education', style: 'heading'},
+							{ image: 'lineImage',width: 510,height:15, margin: [ 0, 0, 0, 5]},
+							{ text: 'text', style: 'para'},
+						]
+					}
+				],margin : [0, 0, 0, 20]
+			},
+
+			{
+				columns: [
+					{
+						width: '100%',
+						stack: [
+							{ text: 'Skills', style: 'heading'},
+							{ image: 'lineImage',width: 510,height:15, margin: [ 0, 0, 0, 5]},
+							{ 
+								ul: [
+							        { text: ['Programming',{text : "  -  Advanced", style: 'adjText'}]},
+							        { text: ['Photoshop',{text : "  -  Good", style: 'adjText'}]},
+							        { text: ['Animation',{text : "  -  Beginner", style: 'adjText'}]},
+							        { text: ['Video Editing',{text : "  -  Intermediate", style: 'adjText'}]},
+								],
+								style : 'para'
+							}
+						]
+					}
+				],margin : [0, 0, 0, 20]
+			},
+
+			{
+				columns: [
+					{
+						width: '100%',
+						stack: [
+							{ text: 'Extra-Curricular', style: 'heading'},
+							{ image: 'lineImage',width: 510,height:15, margin: [ 0, 0, 0, 5]},
+							{ text: 'text', style: 'para'},
+						]
+					}
+				],margin : [0, 0, 0, 20]
+			},
+
+			{
+				columns: [
+					{
+						width: '100%',
+						stack: [
+							{ text: 'Hobbies', style: 'heading'},
+							{ image: 'lineImage',width: 510,height:15, margin: [ 0, 0, 0, 5]},
+							{ text: 'text', style: 'para'},
+						]
+					}
+				],margin : [0, 0, 0, 20]
+			},
+
+			{
+				columns: [
+					{
+						width: '100%',
+						stack: [
+							{ text: 'Languages', style: 'heading'},
+							{ image: 'lineImage',width: 510,height:15, margin: [ 0, 0, 0, 5]},
+							{ text: 'text', style: 'para'},
+						]
+					}
+				],margin : [0, 0, 0, 20]
+			},
+
+			{
+				columns: [
+					{
+						width: '100%',
+						stack: [
+							{ text: 'Refrences', style: 'heading'},
+							{ image: 'lineImage',width: 510,height:15, margin: [ 0, 0, 0, 5]},
+							{ text: 'text', style: 'para'},
+						]
+					}
+				],margin : [0, 0, 0, 20]
+			},
+			
+		],
+		styles: {
+	   		name: {
+	   			fontSize: 20,
+	   			bold: false,
+	   			color: '#222222'
+	   		},
+	     	heading: {
+	       		fontSize: 16,
+	       		bold: true,
+	       		color:'#222222',
+	     	},
+	     	para: {
+	     		fontSize : 12,
+	     		bold:false,
+	     		color:'#444444',
+	     		lineHeight :'1.3'
+	     	},
+	     	adjText: {
+	     		color : "#acacac",
+	     		bold : true,
+	     		fontSize: 10
+	     	}
+		},
+
+	   	images: {
+	   		lineImage : 'data:image/jpeg;base64,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'
+	   	},
+};
+	//var clone = docDefinition.content.splice(0); // To clone an array
+	//docDefinition.splice(i,1) // To remove one item at index position i from an array.
+	docDefinition.content[0].columns[0].stack[0].text = $("#fullname").val();
+	docDefinition.content[0].columns[0].stack[1].text = $("#city").val()+" , "+$("#state").val()+" , "+$("#country").val()+" - "+
+	$("#pincode").val()+".";
+	docDefinition.content[0].columns[1].stack[0].text[1].text = $("#dob").val();
+	docDefinition.content[0].columns[1].stack[1].text[1].text = $("#phone").val();
+	docDefinition.content[0].columns[1].stack[2].text[1].text = $("#email").val();
+	docDefinition.content[1].columns[0].stack[2].text = $("#profile").val();
+	pdfMake.createPdf(docDefinition).open();
+};
+
+
+// var docDefinition = {
+//   content: [
+
+//   	{ columns: [
+//         {
+//           	width: '60%',
+//     		stack: [
+//     			// { text: 'Surya T', style: 'name',margin: [ 0, 10, 0, 5]},
+//     			{ text: 'Surya T', style: 'name'},
+//     			{ text: 'Bengaluru , Karnataka , India - 560043 .', style: 'para',margin: [0, 3, 0, 0]},
+//     		],
+//         },
+
+//         {
+// 			width: '40%',
+// 			stack: [
+// 				// { image: 'profileImage',fit:[80,80]},
+// 				// { text: [{text: 'D.O.B : '} ,{text: '29 - 06 - 1997', style: 'para'}], margin: [ 0, 10, 0, 0]},
+// 				{ text: [{text: 'D.O.B : '} ,{text: '29 - 06 - 1997', style: 'para'}]},
+// 				{ text: [{text: 'phone : '},{text: '9066658336', style: 'para'}]},
+// 				{ text: [{text: 'email : '},{text :'suryaspeed7@gmail.com', style: 'para'}]},
+// 			],
+// 			fontSize : 12,
+// 			color : '#222222',
+// 			bold : true,
+// 			margin: [0, 5, 0, 0]
+//         },
+//     ],
+//     margin : [0, 0, 0, 20]
+// 	},
+
+//     { text: 'Profile Summary', style: 'heading'},
+//     { image: 'lineImage',width: 510,height:15},
+//     { text: 'Hardcore Python lover and an Enthusiastic Web developer . Programming experience in Python , C , Javascript , HTML , CSS and PHP . Also worked on server side scripting  using Python (django) , PHP and NodeJs. And databases like MySql , Sqlite3 and MangoDB . Currently working on projects related to Websockets , Webgl and OpenCV( Image-Processing ). Developed few Android Apps (Including a Registration App for Furore 2K17).', style: 'para',margin: [ 0, 10, 0, 20]},
+//     { text: 'Work Experience', style: 'heading'},
+//     { image: 'lineImage',width: 510,height:15},
+//     { text: 'I am a good singer and also a con artist.', style: 'para',margin: [ 0, 10, 0, 20]},
+//     { text: 'Internships', style: 'heading'},
+//     { image: 'lineImage',width: 510,height:15},
+//     { text: 'I am a good singer and also a con artist.', style: 'para',margin: [ 0, 10, 0, 20]},
+//     { text: 'Education', style: 'heading'},
+//     { image: 'lineImage',width: 510,height:15},
+//     { text: 'I am a good singer and also a con artist.', style: 'para',margin: [ 0, 10, 0, 20]},
+//     { text: 'Skills', style: 'heading'},
+//     { image: 'lineImage',width: 510,height:15},
+//     {
+//       ul: [
+//         { text: ['Programming',{text : "  -  Advanced", style: 'adjText'}],color:'#444444', margin:[0,3,0,3] },
+//         { text: ['Photoshop',{text : "  -  Good", style: 'adjText'}],color:'#444444', margin:[0,3,0,3] },
+//         { text: ['Animation',{text : "  -  Beginner", style: 'adjText'}], color:'#444444', margin:[0,3,0,3] },
+//         { text: ['Video Editing',{text : "  -  Intermediate", style: 'adjText'}], color:'#444444', margin:[0,3,0,3] },
+//       ],margin : [ 0, 2, 0, 20]
+//     },
+    
+//    ],
+
+//    	styles: {
+//    		name: {
+//    			fontSize: 20,
+//    			bold: false,
+//    			color: '#222222'
+//    		},
+//      	heading: {
+//        		fontSize: 16,
+//        		bold: true,
+//        		color:'#222222',
+//      	},
+//      	para: {
+//      		fontSize : 12,
+//      		bold:false,
+//      		color:'#444444',
+//      		lineHeight :'1.3'
+//      	},
+//      	adjText: {
+//      		color : "#afafaf",
+//      		bold : false
+//      	}
+//    	},
+
+//    	images: {
+//    		lineImage : 'data:image/jpeg;base64,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',
+   		
+//    		profileImage: 'data:image/png;base64,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'
+//    	}
+// };
+
+</script>
+</body>
+</html>
